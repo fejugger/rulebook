@@ -123,7 +123,7 @@ El *Q-tip* tiene unas dimensiones máximas de 200 cm. Tiene una zona de agarre c
 ### 3.2.2 Bastón o stab
 ![Stab - Imagen 8](https://fejugger.es/images/doc/reglamento/imagen8.png)
 
-El *stab* tiene unas dimensiones máximas de 180 cm. La zona de impacto está situada en un extremo y mide 90 cm. La zona entre los dos agarres no se considera zona de golpeo válido, aunque debe estar acolchada y tener un mínimo de 4 cm de diámetro.
+El *stab* tiene unas dimensiones máximas de 180 cm. La zona de impacto está situada en un extremo y mide 90 cm. La zona entre los dos agarres no se considera zona de golpeo válido, aunque debe estar minimamente acolchada.
 
 Es un arma a dos manos con dos zonas de agarre separadas y solo produce impactos válidos cuando se usan ambos agarres simultáneamente. No está permitido fondear o estocar con el *stab*.
 
