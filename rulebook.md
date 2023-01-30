@@ -90,7 +90,6 @@ Las armas deben de ser seguras. Para todas las armas rigen estas normas:
 
 - Las armas de los *pompfers* tienen que ser de sección redonda y, exceptuando las zonas de agarre, su diámetro debe ser superior a 6 cm e inferior a 15 cm.
 - Las armas rígidas han de tener el alma recta y que no flecte. 
-- Las armas rígidas pueden tener anillos en las zonas de golpeo de hasta 2,5 cm de radio de relieve, sin exceder en ningún caso los 15 cm de diámetro totales. Estos anillos no pueden situarse en la mitad más cercana al agarre de la zona de golpeo, a excepción de los anillos especiales que generan el escalón del agarre del Q-tip.
 - Las medidas de las armas son máximas estando permitido llevar un arma más corta.
 - Las armas no deben exponer sus materiales y deben estar cubiertas por algún tipo de material.
 - Los pomos de las armas  son considerados zonas de agarre válidas y deben estar **mínimamente acolchados** siendo obligatorio únicamente cubrir la base. 
@@ -105,7 +104,7 @@ Las **zonas de golpeo** de las armas deben cumplir lo siguiente:
 - Todos los bordes deben ser redondeados y no deben presentar aristas. 
 - Las zonas de golpeo no deben producir arañazos al resto de jugadores. 
 - Las zonas de golpeo deben medir **al menos 40 cm** de longitud. 
-- Debe existir una diferencia de al menos 4 cm de diámetro en la unión entre las zonas de acolchado y las de agarre de algunas armas. Esta diferencia puede generarse con el propio acolchado o con un anillo de al menos 4 cm de longitud siempre que se mantenga el mínimo de 6 cm de diámetro. Se resaltan en los dibujos de cada arma las zonas en las que tiene que existir dicha diferencia
+- Debe existir una diferencia de al menos 4 cm de diámetro en la unión entre las zonas de acolchado y las de agarre de algunas armas. Esta diferencia puede generarse con el propio acolchado o con un refuerzo de al menos 4 cm de longitud siempre que se mantenga el mínimo de 6 cm de diámetro. Se resaltan en los dibujos de cada arma las zonas en las que tiene que existir dicha diferencia
 
 ![Escalón - Imagen 5](https://fejugger.es/images/doc/reglamento/imagen5.png)
 
