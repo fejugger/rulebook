@@ -310,11 +310,13 @@ No se considerarán impactos los golpes que se realicen mientras la cadena se en
 
 Todos los impactos múltiples de la cadena serán válidos siempre que ésta mantenga el movimiento, independientemente de si ha impactado a otro jugador, un arma o el suelo.
 
-Un jugador activo puede enrollar y sujetar la cadena con sus armas sin consecuencias. En cualquier caso, si un cadenero es impactado, se deberá proceder a destrabar las armas. Si el *pompfer* es impactado, este deberá facilitar al cadenero el destrabe del *kette* sin soltar su arma.
+Un jugador activo puede enrollar y sujetar la cadena con sus armas sin consecuencias.
+
+En cualquier caso, si un cadenero es impactado, se deberá proceder a destrabar las armas. Si el *pompfer* es impactado, este deberá facilitar al cadenero el destrabe del *kette* sin soltar su arma y no podrá iniciar su cuenta hasta que el destrabe haya finalizado.
 
 Se considerará que el *pompfer* facilita el destrabe cuando ofrece el arma o la extremidad al cadenero de forma que la parte trabada le quede lo más cerca y lo más despejada posible sin estar en contacto con el suelo, pudiendo incluso cederle el arma para que pueda destrabar más fácilmente. El cadenero está obligado a devolver el arma una vez destrabe
 
-Lo mismo se aplica al caso de cadenero impactado y *pompfer* activo. El cadenero ha de ofrecer su arma para que el *pompfer* destrabe de la forma más cómoda posible, incluso llegando a soltar el *kette*, que deberá serle devuelto. 
+Lo mismo se aplica al caso de cadenero impactado y *pompfer* activo. El cadenero ha de ofrecer su arma para que el *pompfer* destrabe de la forma más cómoda posible, incluso llegando a soltar el *kette*, que deberá serle devuelto. De igual manera, el cadenero no podrá iniciar su cuenta hasta que el destrabe haya finalizado.
 
 El *kette* no puede girar si tiene un arma enrollada, además de que ningún jugador podrá destrabar las armas con tirones, especialmente si el *kette* se encuentra trabado en el cuerpo de una persona.
 
@@ -363,6 +365,7 @@ Según el sistema de juego al mismo tiempo se refiere a que los impactos han de 
 ## 5.4 ARRODILLARSE
 Arrodillarse es la acción que tiene que llevar a cabo un jugador que ha recibido un impacto válido y/o una falta y que consiste en poner como mínimo una rodilla en el suelo hasta que pase el tiempo de penalización. Durante este tiempo el jugador debe cumplir las siguientes normas:
 
+- Para poder iniciar su cuenta, su arma no deberá estar enrollada a otra.
 - El jugador deberá arrodillarse en el lugar del campo que fue impactado. En caso de verse obligado a desplazarse, deberá regresar a la posición del impacto e iniciar su cuenta.
 - Su arma deberá estar de manera horizontal y en el suelo (en el caso del escudo, se permitirá no retirar el agarre siempre y cuando se realice la cuenta con la otra mano y la espada se encuentre en el suelo).
 - Nunca se podrá sujetar un arma con la mano con la que se realiza la cuenta, aunque esta haya terminado.
