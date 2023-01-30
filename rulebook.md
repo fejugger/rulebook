@@ -344,7 +344,6 @@ Si un jugador intenta emplear la cabeza de forma deliberada o repetida para para
 Las manos que portan un arma no son zonas de impacto válidas. Las manos **NO** engloban las muñecas. Si un jugador es golpeado en la mano, deberá decir en alto «¡Mano!». Si un golpe primero hace contacto en la mano y luego en una zona de impacto válida, será considerado válido.
 
 Se considerará que la mano sí es una zona de impacto válida cuando:
-- Es la mano que porta un escudo.
 - Cuando no se encuentra agarrando un arma.
 - Cuando la mano agarra el arma, pero no se encuentra en la zona de agarre especifica del arma.
 - Cuando se juega como cadenero o corredor. 
