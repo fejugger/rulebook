@@ -301,12 +301,12 @@ También se considerarán falta los fondos con el stab.
 Sí está permitido defenderse agarrando el arma a una mano.
 
 ### 5.1.1 Kette
-Un impacto realizado por un *kette* genera una penalización de 8 intervalos. El *kette* realiza impactos válidos cuando está en movimiento en cualquiera de sus direcciones y:
+Un impacto realizado por un *kette* genera una penalización de 8 intervalos. El *kette* realiza impactos válidos cuando estando la bola detenida, es lanzada por acción directa del jugador que porta el kette hacia fuera en cualquiera de sus direcciones y:
 
 - Golpea con la bola con las condiciones generales anteriormente descritas. 
 - Enrolla con la cadena (realizando una O) al menos una zona de impacto válida de un jugador.
 
-No se considerarán impactos los golpes que se realicen mientras la cadena se encuentre enrollada en un arma u otro jugador (realizando un círculo completo) o los que se produzcan estando la bola detenida. Tampoco serán válidos los impactos que se realicen con la bola con un movimiento directamente producido por darle una patada a la misma (un golpe con el pie, la rodilla o la pierna).
+No se considerarán impactos los golpes que se realicen una vez que la cadena ha enrollado un arma (realizando un círculo completo) o los que se produzcan tras detenerse la bola sin que el jugador que porte el kette vuelva a lanzar de manera directa el kette hacia fuera.
 
 Todos los impactos múltiples de la cadena serán válidos siempre que ésta mantenga el movimiento, independientemente de si ha impactado a otro jugador, un arma o el suelo.
 
