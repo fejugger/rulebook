@@ -4,6 +4,10 @@ Bienvenido al repositorio del reglamento de jugger de La Federación Española d
 
 Actualmente el reglamento se encuentra en su versión 5.0
 
+- [Reglamento](./rulebook.md)
+- [¿Cómo veo los cambios propuestos?](#solicitudes-de-cambios)
+- [¿Cómo creo un debate o realizo una pregunta?](#crear-un-debate-o-realizar-una-pregunta)
+
 ## ¿Por qué un repositorio?
 Con el objetivo de aumentar la transparencia del proceso de revisión del reglamento y democratizar la participación de los jugadores en los debates de las normas utilizamos un repositorio con control de cambios.
 
@@ -22,6 +26,61 @@ Todos los ficheros sobre los que se realiza el control de versiones se pueden ve
 
 ![Code](./images/code.jpg)
 
-Al hacer click en un fichero, podemos ver su contenido.
+Al hacer click en un fichero, podemos ver su contenido. De manera adicional, también podemos ver cuando se modificó por última vez.
+
+![Files](./images/files.jpg)
 
 El reglamento se encuenta en el fichero [rulebook.md](./rulebook.md)
+
+La extensión _.md_ hace referencia a un archivo de texto con formato que utiliza sintaxis especial para dar formato a los contenidos. Es un acrónimo de "Markdown". Se utiliza principalmente para documentar proyectos, crear artículos en sitios web y para escribir mensajes en plataformas de discusión.
+
+En lugar de utilizar código HTML o lenguaje de marcado para dar formato al texto, Markdown utiliza una sintaxis sencilla y fácil de aprender. Por ejemplo, los títulos se escriben con "#", las listas con "-" y las citas con ">".
+
+Al guardar un archivo con la extensión .md, se puede visualizar en un formato legible en un editor de texto o se puede convertir a HTML o PDF para su publicación en un sitio web o para su impresión.
+
+Puedes encontrar más información en el [siguiente enlace](https://tutorialmarkdown.com/).
+
+## Solicitudes de cambios
+El repositorio gestiona las modificaciones a través de las [pull request](https://github.com/fejugger/rulebook/pulls).
+
+Generalmente cada solicitud de cambio representará una regla nueva para ser votada por los representantes.
+
+![PR](./images/pr.jpg)
+
+Una _pull request_ es una solicitud de cambios sobre el contenido actual. Una _pull request_ esta formada por un nombre, una descripción y los cambios que se proponen.
+
+![PR1](./images/pr1.jpg)
+
+Al crear una _pull request_, automaticamente se abre un debate sobre el mismo en el que cualquier usuario registrado puede participar.
+
+Para ver los cambios, simplemente es necesario ir al elemento _Files changed_ del menú.
+
+![PR2](./images/pr2.jpg)
+
+Para notificar los cambios se utiliza un código de colores muy sencillo:
+- En rojo las líneas de texto que se eliminan.
+- En verde, las líneas de texto que se añaden.
+- En verde destacado, el contenido exacto que varía.
+
+De manera adicional, podemos ver los cambios en formato _enriquecido_.
+
+![Rich1](./images/rich1.jpg)
+
+![Rich2](./images/rich2.jpg)
+
+También podemos ver el resultado final del contenido modificado.
+
+![View1](./images/view1.jpg)
+
+### Añadir comentarios sobre algún cambio específico
+Los usuarios registrados pueden añadir comentarios sobre la solicitud en general o sobre alguna parte del contenido.
+
+![Comment1](./images/comment1.gif)
+
+![Comment2](./images/comment2.gif)
+
+![Comment3](./images/comment3.jpg)
+
+## Crear un debate o realizar una pregunta
+
+TBD
