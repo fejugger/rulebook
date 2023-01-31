@@ -88,7 +88,7 @@ El resto de jugadores no pueden interactuar voluntariamente con su cuerpo con el
 ## 3.2 ARMAS
 Las armas deben de ser seguras. Para todas las armas rigen estas normas:
 
-- Las armas de los *pompfers* tienen que ser de sección redonda y, exceptuando las zonas de agarre, su diámetro debe ser superior a 6 cm e inferior a 15 cm.
+- Las armas de los *pompfers* tienen que ser de sección redonda y, exceptuando las zonas de agarre y las puntas, su diámetro debe ser superior a 6 cm e inferior a 15 cm.
 - Las armas rígidas han de tener el alma recta y que no flecte. 
 - Las armas rígidas pueden tener anillos en las zonas de golpeo de hasta 2,5 cm de radio de relieve, sin exceder en ningún caso los 15 cm de diámetro totales. Estos anillos no pueden situarse en la mitad más cercana al agarre de la zona de golpeo, a excepción de los anillos especiales que generan el escalón del agarre del Q-tip.
 - Las medidas de las armas son máximas estando permitido llevar un arma más corta.
@@ -112,6 +112,7 @@ Las **zonas de golpeo** de las armas deben cumplir lo siguiente:
 Las **puntas** deben cumplir lo siguiente: 
 - La punta del arma no puede tener alma y debe estar realizada solo con acolchado o material blando.
 - La punta del arma debe ser suficientemente resistente para no romperse al fondear con ella.
+- Los últimos 5 cm de cada zona de golpeo del arma deben tener al menos 7 cm de diámetro.
 
 ![Punta - Imagen 6](https://fejugger.es/images/doc/reglamento/imagen6.png)
 
