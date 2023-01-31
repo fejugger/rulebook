@@ -149,7 +149,7 @@ El escudo debe ser redondo y tener un diámetro de 60 cm y un grosor de hasta 25
 ### 3.2.6 Kette
 ![Kette - Imagen 12](https://fejugger.es/images/doc/reglamento/imagen12.png)
 
-El *kette* tiene unas dimensiones máximas de 320 cm. El *kette* está formado por una bola de 20 cm de diámetro (no puede ser de medida inferior) y un conjunto de enlace y agarre de hasta 300 cm. 
+El *kette* tiene unas dimensiones máximas de 320 cm. El *kette* está formado por una bola de entre 55 cm y 77 cm de perímetro (18-22 cm de diámetro) y un conjunto de enlace y agarre de longitud variable. En niungún caso la longitud total puede superar la medida máxima definida.
 
 La bola debe ser una esfera de material blando que **NO** puede estar cubierta en su totalidad con cinta. 
 
