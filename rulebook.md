@@ -284,7 +284,7 @@ Se considera golpe a todo contacto que existe entre un arma y un jugador distint
 - Ha de realizarse con la zona de golpeo del arma. 
 - Ha de realizarse con el arma correctamente agarrada. 
 - En el caso del stab no ha de ser un fondo o una estocada. 
-- No ha de realizarse con fuerza desmesurada. 
+- No ha de poner en peligro la integridad física del otro jugador. 
 - El arma no debe estar rota.
 
 Un impacto válido hace que el jugador tenga que arrodillarse y realizar una cuenta de penalización de 5 intervalos (8 en caso de un impacto del *kette*).
@@ -321,9 +321,7 @@ El *kette* no puede girar si tiene un arma enrollada, además de que ningún jug
 ### 5.1.2 Escudo
 El escudo está considerado un arma defensiva con lo que los golpes con el escudo no serán considerados válidos. El escudo debe sujetarse desde el agarre.
 
-### 5.1.3 Fuerza desmesurada y aturdimiento
-Se considerará que un golpe se realiza con **fuerza desmesurada** cuando este se realice con un exceso de fuerza innecesario para la situación del juego. Cualquier jugador podrá solicitar que un golpe recibido fue con fuerza desmesurada. En este caso quedará a discreción del jugador que realizó el impacto agacharse por falta leve. En caso de que decida continuar (por qué considera que el impacto no fue con fuerza desmesurada) un árbitro podrá sancionar con falta grave, si él así lo considera. El ejemplo más claro es cuando se golpea a un corredor, o un cadenero indefenso.
-
+### 5.1.3 Aturdimiento
 Se considerará que un golpe en la cabeza produce **aturdimiento** y deja al jugador inactivo cuando este no pueda seguir jugando. Este podrá realizar la señal de jugador fuera de juego. Si el jugador recibe un impacto en la cabeza y continúa con el transcurso normal del juego (atacando), no se considerará que el golpe aturdió.
 
 ## 5.2 ZONAS DE IMPACTO
@@ -431,7 +429,9 @@ Cuando un pineo finaliza puede ocurrir que el jugador arrodillado:
 En ambos casos si el intervalo suena justo cuando se está liberando el pineo, no será tenido en cuenta y habrá que esperar a que suene el siguiente.
 
 ## 5.7 JUEGO PELIGROSO
-Se considerará juego peligroso cualquier acción que ponga en peligro la integridad física de otro jugador, independientemente del equipo al que pertenezca.
+Se considerará juego peligroso cualquier acción que ponga en peligro de manera directa y suficiente la integridad física de otro jugador, independientemente del equipo al que pertenezca.
+
+Estas acciones tienen que ver más en como se desarrolla la acción que en el tipo de acción en si misma. Es decir, puede producirse *juego peligroso* al chocar contra un jugador, al realizar un impacto, en la lucha de corredores, etc...
 
 Estas acciones son consideradas faltas y el jugador pasará a ser considerado como *no activo* por lo que no producirá impactos válidos.
 
@@ -664,7 +664,6 @@ Las faltas leves se producen en los siguientes casos:
 - Utilizar un arma agarrándola desde una zona diferente a la de agarre con el fin de obtener cualquier tipo de ventaja.
 - Realizar un fondo con el stab.
 - Romper el arma propia.
-- El uso de fuerza desmesurada, tanto en lucha de corredores como a la hora de realizar impactos con un arma.
 - Bloquear el orificio de la zona de marcaje. 
 - Mover el arma a un jugador arrodillado de manera negativa para el dueño y por acción que no sea un lance del juego.
 - Agarrar el arma de otro jugador con las manos u otra parte del cuerpo, excepto si se está destrabando un arma. 
@@ -718,8 +717,10 @@ Si un jugador comete una falta leve durante el juego y no se arrodilla, el árbi
 Las **faltas graves directas** se producen en los siguientes casos:
 
 - Realizar acciones que pongan en peligro la integridad de otros jugadores.
-	- Juego peligroso. 
-	- Golpes muy fuertes. 
+	- Juego peligroso.
+	- Cargas.
+	- Impactos.
+	- Lucha de corredores.
 	- Golpear a alguien voluntariamente con alguna parte del cuerpo. 
 	- Lanzar el *jugg* contra un jugador o fuera del campo de forma intencionada. 
 	- Jugar con un arma rota o peligrosa.
