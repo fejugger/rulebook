@@ -392,7 +392,7 @@ Si un jugador arrodillado no está activo y realiza un impacto a otro jugador, s
 Existen una serie de acciones sin embargo que el jugador arrodillado tiene permitido realizar dado que **NO** influyen negativamente en el juego:
 
 - Dirigir o dar órdenes al equipo. 
-- Sacar el *jugg* de la base tras un punto no válido. 
+- Sacar el *jugg* de la base tras un punto no válido.
 - Destrabar el *kette* o facilitar su destrabe. 
 - Pivotar sobre la rodilla sobre la que se arrodilló siempre que no se libere del pineo. 
 - Protegerse de un impacto. 
