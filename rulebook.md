@@ -293,7 +293,7 @@ Se considera golpe a todo contacto que existe entre un arma y un jugador distint
 - Ha de realizarse con la zona de golpeo del arma. 
 - Ha de realizarse con el arma correctamente agarrada. 
 - En el caso del stab no ha de ser un fondo o una estocada. 
-- No ha de poner en peligro la integridad física del otro jugador. 
+- No ha de realizarse con fuerza desmesurada. 
 - El arma no debe estar rota.
 
 Un impacto válido hace que el jugador tenga que arrodillarse y realizar una cuenta de penalización de 5 intervalos (8 en caso de un impacto del *kette*).
@@ -332,6 +332,17 @@ El escudo está considerado un arma defensiva con lo que los golpes con el escud
 
 ### 5.1.3 Aturdimiento
 Se considerará que un golpe en la cabeza produce **aturdimiento** y deja al jugador inactivo cuando este no pueda seguir jugando. Este podrá realizar la señal de jugador fuera de juego. Si el jugador recibe un impacto en la cabeza y continúa con el transcurso normal del juego (atacando), no se considerará que el golpe aturdió.
+
+### 5.1.4 Fuerza desmesurada
+Se considerará que un impacto se realiza con fuerza desmesurada cuando este se realice con un exceso de fuerza innecesario para la situación del juego.
+
+En todo momento un jugador podrá considerar que la fuerza del impacto que recibe no es suficiente para ser considerado fuerza desmesurada e indicarle al los rivales y a los arbitros que se debe continuar con el juego.
+
+Del mismo modo, un jugador podrá considerar que la fuerza del impacto que recibe es suficiente para ser considerado fuerza desmesurada, en este caso quedará a discreción del árbitro sancionarlo como tal.
+
+Siempre que se produzca un impacto con fuerza desmesurada, éste no será considerado válido, ya que procede de un jugador inactivo. Realizar este tipo de impactos se sanciona con una falta leve y se rige por las mismas normas. Es decir acumula con el resto de posibles penalizaciones y si el jugador que la comete se detiene para resolver la situación, no acarreará una falta grave.
+
+El ejemplo más claro ocurre cuando se golpea a corredores o cadeneros indefensos o sobre jugadores inactivos.
 
 ## 5.2 ZONAS DE IMPACTO
 Las zonas de impacto de un jugador abarcan todo el cuerpo, incluida la ropa del mismo con las siguientes excepciones:
@@ -437,14 +448,48 @@ Cuando un pineo finaliza puede ocurrir que el jugador arrodillado:
 
 En ambos casos si el intervalo suena justo cuando se está liberando el pineo, no será tenido en cuenta y habrá que esperar a que suene el siguiente.
 
-## 5.7 JUEGO PELIGROSO
-Se considerará juego peligroso cualquier acción que ponga en peligro de manera directa y suficiente la integridad física de otro jugador, independientemente del equipo al que pertenezca.
+## 5.7 CONTACTO PERSONAL Y CARGAS
+Los jugadores podrán entrar en contacto con el cuerpo de otros jugadores (activos o inactivos) sin ningún tipo de penalización. Este tipo de contacto se denominará contacto personal.
+Este contacto se podrá realizar con cualquier parte del cuerpo o con cualquier parte del arma a excepción de las zonas de golpeo (estos se consideran golpes y se rigen por la sección [Golpes e impactos](#51-golpes-e-impactos) del reglamento).
 
-Estas acciones tienen que ver más en como se desarrolla la acción que en el tipo de acción en si misma. Es decir, puede producirse *juego peligroso* al chocar contra un jugador, al realizar un impacto, en la lucha de corredores, etc...
+Una carga es una falta leve que se produce por un contacto personal ilegal.
 
-Estas acciones son consideradas faltas y el jugador pasará a ser considerado como *no activo* por lo que no producirá impactos válidos.
+Las cargas se producen cuando el contacto personal ocurre bajo alguna de estás condiciones:
+- Si se realiza usando las manos, brazos o piernas con un movimiento no natural u ocupando un espacio adicional al cilindro del jugador.
+- Si se produce de manera deliberada y desentendiendose de las acciones de juego o para producir una ventaja evidente en el mismo.
+- Si se realiza para producir una pantalla en la trayectoria de un jugador rival y teniendo los pies en movimiento o teniendo una parte del cuerpo fuera del cilindro que define el jugador.
+- Si se realiza sin reducir la velocidad de movimiento o realizando un salto o una acometida sobre un jugador que mantiene su posición y se encuentra en la misma trayectoria de desplazamiento del jugador que realiza el contacto personal.
+- Si se realiza con violencia o con una fuerza innecesaria para la propia acción.
 
-## 5.8 LUCHA DE CORREDORES
+Para que un contacto personal se pueda considerar carga, ha de realizarse sobre un jugador del equipo rival y no debe de realizarse entre dos qwikers (estos se rigen por la sección [Lucha de corredores](#510-lucha-de-corredores) del reglamento).
+
+De manera adicional, el jugador que realiza el contacto personal debe ser libre de sus movimientos, es decir no deben intervenir otros factores de juego como haber recibido otra carga, una interacción entre qwikers, etc…
+
+En todo momento un jugador podrá considerar que el contacto personal que recibe no es suficiente para ser considerado carga e indicarle al los rivales y a los arbitros que se debe continuar con el juego.
+
+Del mismo modo, un jugador podrá considerar que el contacto personal que recibe es suficiente para ser considerado carga, en este caso quedará a discreción del árbitro sancionarlo como tal. 
+
+Siempre que un impacto se produzca como consecuencia de una carga, éste no será considerado válido, ya que procede de un jugador inactivo. Realizar este tipo contactos personales se sanciona con una falta leve y se rige por las mismas normas. Es decir acumula con el resto de posibles penalizaciones y si el jugador que la comete se detiene para resolver la situación, no acarreará una falta grave.
+
+### Movimiento no naturales
+Se considera una movimiento no natural aquel cuya finalidad no esté relacionada con el propio objetivo del juego.
+Por ejemplo, estirar los brazos puede ser un movimiento natural cuando un *pompfer* va a realizar un ataque o cuando un *qwiker* va a defender, pero no lo es cuando un *pompfer* quiere hacerse grande para evitar que otro jugador acceda a un espacio.
+
+Sacar las piernas del cilindro a priori es un movimiento necesario para casi cualquier acción del juego, pero sacar una pierna cuando va a pasar un jugador para ocupar un espacio adional no, por lo que no se consideraría un movimiento natural.
+
+### Principio del cilindro
+El principio del cilindro se define como el espacio dentro de un cilindro imaginario ocupado por un jugador en una posición natural para el juego (levantado, en el suelo realizando una cuenta, en un movimiento de transición, etc…). Esto incluye el espacio situado por encima del jugador y está limitado:
+- En la parte delantera la zona más adelantada por delante del torso (habitualmente  las palmas de las manos,o la rodilla si está realizando una cuenta).
+- En la parte trasera la zona más retrasada por la espalda (habitualmente las nalgas o el pie si está realizando una cuenta).
+- En los laterales por la parte exterior de los hombros y de la cadera. En caso de tener alguna extremedidad extendida, el cilindro se amplia hasta el codo y las rodilla de dichas extremidad.
+
+
+## 5.8 JUEGO PELIGROSO
+Toda acción (contacto personal, carga, impacto, interacción entre qwikers, etc…) ya sea deliberada o accidental que ponga en peligro la integridad física de otro jugador (del mismo equipo o no) de manera directa y suficiente será considerada como juego peligroso y será sancionada con una falta grave directa.
+
+Si esta acción se considera que se ejecuta con fuerza excesiva o brutalidad, deberá ser sancionada con una falta técnica.
+
+## 5.9 LUCHA DE CORREDORES
 Los corredores pueden luchar entre ellos. Las técnicas que están permitidas son:
 
 - Agarres sobre una zona válida.
@@ -480,7 +525,7 @@ Se considera *hand off* un desplazamiento empleando el brazo o la mano para evit
 - No se puede iniciar el hand off con un impacto brusco. 
 - Solo se puede usar una extremidad para su realización. Se hará solamente con un brazo, nunca con los dos.
 
-## 5.9 DENTRO Y FUERA DEL CAMPO
+## 5.10 DENTRO Y FUERA DEL CAMPO
 Se considerará que un jugador está fuera si con alguna parte de su cuerpo toca la línea que delimita el campo o más allá. Salirse del campo se considera una asistencia arbitral que el jugador deberá cumplir al regresar al campo, con las siguientes consideraciones:
 
 - Si un jugador sale del campo por acción de otro jugador que ya está fuera, no se considerará que ha salido.
@@ -494,22 +539,22 @@ Esta norma no aplica si un rival lanza el *jugg* de manera deliberada contra el 
 
 Cuando el *jugg* es lanzado fuera del campo, el punto no se detiene y este tiene que regresar de inmediato dentro del campo. Si esto no ocurriera, el corredor está autorizado a salir del campo a recogerlo por el sitio más cercano y regresar dentro tan rápido como sea posible y por el mismo punto del campo por el que salió. Para ello deberá levantar el brazo indicando el propósito de su salida y durante el tiempo que esté fuera del campo SÍ podrá ser impactado.
 
-## 5.10 INDICAR AL CONTRARIO QUE CONTINÚE
+## 5.11 INDICAR AL CONTRARIO QUE CONTINÚE
 Es obligatorio indicar a un oponente que siga jugando cuando nos ha golpeado primero, le hemos golpeado en la cabeza, o hemos realizado un golpe no válido que él sí ha interpretado como impacto. Esta indicación hay que realizarla se haya o no agachado y deberá hacerse de manera clara y visible para el jugador y equipo arbitral.
 
-## 5.11 AGARRE INDEBIDO DEL ARMA
+## 5.12 AGARRE INDEBIDO DEL ARMA
 Un golpe agarrando de forma indebida el arma, no solo no produce un impacto válido, sino que está considerado falta, por lo que se deberá avisar al contrario y autoarbitrar la falta leve en el momento.
 
 Esta norma también aplica a un escudo. Si este no se agarra de manera correcta, los impactos que realice ese jugador no serán validos.
 
-## 5.12 FONDOS CON EL STAB
+## 5.13 FONDOS CON EL STAB
 Se entiende por fondeo todo aquel ataque que se realiza clavando la punta y moviendo el *stab* de atrás hacia adelante.
 
 Los golpes realizados de esta manera con el *stab* no serán considerados impactos válidos. Asimismo, no se consideran impactos válidos los golpes que se produzcan tras un fondo con el *stab*. Además este tipo de impactos serán considerados como falta, por lo que se deberá avisar al contrario y autoarbitrar la falta leve en el momento.
 
 Sí serán considerados válidos todos los impactos que se realicen con la punta siempre que el golpe no haya sido producido por un fondo (golpe lateral que impacte sólo con la punta) o aquellos en los que el oponente se golpeara contra la punta del *stab* por acción directa sin que el jugador que lo porta realice un ataque.
 
-## 5.13 INTERACTUAR CON LAS BASES
+## 5.14 INTERACTUAR CON LAS BASES
 Un corredor puede defender en la base siempre y cuando no obstruya el orificio de la misma y no la desplace deliberadamente. Se considerará que obstruye este orificio siempre que con alguna parte del cuerpo no permita que se pueda introducir el jugg en el mismo.
 
 Si durante un forcejeo se desplazara la base se intentará colocar de manera que no influya en la disputa ni en el resultado del punto.
@@ -519,7 +564,7 @@ Si esto resultara imposible, el árbitro procederá a resolver la acción de la 
 
 Si las bases estuvieran ancladas al suelo y estas se desplazaran, sí se considerará falta del jugador que la desplazó. 
 
-## 5.14 ABANDONAR EL ARMA
+## 5.15 ABANDONAR EL ARMA
 Un jugador no puede abandonar su arma en el campo de manera voluntaria para intervenir en ninguna situación del juego.
 
 En ningún caso se considerará abandono del arma en los siguientes casos:
@@ -538,7 +583,7 @@ Si recoge su arma después podrá iniciar la cuenta en el momento.
 
 Un árbitro **NO** podrá intervenir para facilitar el arma a cualquier jugador inactivo.
 
-## 5.15 JUGADORES ACTIVOS
+## 5.16 JUGADORES ACTIVOS
 
 Un jugador **ACTIVO** es aquel que está en juego. Las acciones de un jugador activo SÍ tienen validez.
 
@@ -569,7 +614,7 @@ En ambos casos acumulará el tiempo de penalización del primer impacto que reci
 
 Un jugador no activo **SÍ** acumula tiempos de penalización por faltas (salvo pisar fuera).
 
-## 5.16 DUALES
+## 5.17 DUALES
 Se considera la combinación de dos espadas cortas como una combinación específica de armas con las siguientes reglas especiales:
 
 - Un jugador que use esta combinación de armas puede atacar levantándose empuñando una única arma sin que se considere que no se agarra correctamente.
@@ -599,7 +644,7 @@ Las situaciones en las que se puede dar un aviso son:
 
 - A un jugador que no realice su cuenta correctamente (no incluye no completarla ni influir negativamente en el desarrollo del juego). 
 - A un jugador que apure mucho la entrada al campo en el inicio del punto. 
-- A un jugador que casi realiza una falta. Ejemplos: tarda un poco en agacharse, casi hace una juego peligroso, casi da un tirón con el arma.
+- A un jugador que casi realiza una falta. Ejemplos: tarda un poco en agacharse, casi hace una carga, casi da un tirón con el arma.
 
 La reiteración de estas acciones podrá acarrear una falta grave al jugador.
 
@@ -664,6 +709,7 @@ Las faltas leves son aquellas acciones que no cambian en exceso el resultado del
 
 Las faltas leves se producen en los siguientes casos:
 
+- Cargas sobre un jugador. 
 - Realizar un pineo ilegal (doble, con el escudo o el kette, uso incorrecto del arma). 
 - Realizar tirones fuertes del arma o del *kette* cuando están trabadas entre sí. El sancionado es aquel o aquellos que realizan los tirones. 
 - Golpear el *jugg* con el cuerpo (por ejemplo dar una patada) habiendo o no un arma entre el *jugg* y el cuerpo a excepción de las manos del corredor. 
@@ -673,6 +719,7 @@ Las faltas leves se producen en los siguientes casos:
 - Utilizar un arma agarrándola desde una zona diferente a la de agarre con el fin de obtener cualquier tipo de ventaja.
 - Realizar un fondo con el stab.
 - Romper el arma propia.
+- El uso de fuerza desmesurada, tanto en lucha de corredores como a la hora de realizar impactos con un arma.
 - Bloquear el orificio de la zona de marcaje. 
 - Mover el arma a un jugador arrodillado de manera negativa para el dueño y por acción que no sea un lance del juego.
 - Agarrar el arma de otro jugador con las manos u otra parte del cuerpo, excepto si se está destrabando un arma. 
@@ -728,7 +775,7 @@ Las **faltas graves directas** se producen en los siguientes casos:
 - Realizar acciones que pongan en peligro la integridad de otros jugadores.
 	- Juego peligroso.
 	- Cargas.
-	- Impactos.
+	- Impactos con fuerza desmesurada.
 	- Lucha de corredores.
 	- Golpear a alguien voluntariamente con alguna parte del cuerpo. 
 	- Lanzar el *jugg* contra un jugador o fuera del campo de forma intencionada. 
