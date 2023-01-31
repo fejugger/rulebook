@@ -296,7 +296,7 @@ Se considera golpe a todo contacto que existe entre un arma y un jugador distint
 - No ha de realizarse con fuerza desmesurada. 
 - El arma no debe estar rota.
 
-Un impacto válido hace que el jugador tenga que arrodillarse y realizar una cuenta de penalización de 5 intervalos (8 en caso de un impacto del *kette*).
+Un impacto válido hace que el jugador tenga que arrodillarse y realizar una cuenta de penalización de 5 intervalos.
 
 No está permitido atacar con el arma agarrada incorrectamente. Se considerará que el arma no se agarra correctmanete si:
 - Con un arma a dos manos no se agarra con dos manos.
@@ -310,7 +310,7 @@ También se considerarán falta los fondos con el stab.
 Sí está permitido defenderse agarrando el arma a una mano.
 
 ### 5.1.1 Kette
-Un impacto realizado por un *kette* genera una penalización de 8 intervalos. El *kette* realiza impactos válidos cuando está en movimiento en cualquiera de sus direcciones y:
+El *kette* realiza impactos válidos cuando está en movimiento en cualquiera de sus direcciones y:
 
 - Golpea con la bola con las condiciones generales anteriormente descritas. 
 - Enrolla con el *kette* (realizando una O) al menos una zona de impacto válida de un jugador.
@@ -413,7 +413,7 @@ En caso de tener que contar más de 5 intervalos, cada múltiplo de 5 cerrará e
 
 El jugador deberá mantener la posición de arrodillado en la medida de lo posible y podrá girar libremente siempre que mantenga su eje de giro sobre la misma rodilla sobre la que se apoyó. Una vez finalizado su tiempo de penalización podrá mantenerse arrodillado tanto tiempo como desee.
 
-Todas las armas y faltas tienen un tiempo de penalización de 5 intervalos, con la excepción del kette, que penaliza con 8 intervalos.
+Todas las armas y faltas tienen un tiempo de penalización de 5 intervalos.
 
 ## 5.5 REINCORPORARSE AL JUEGO
 #### Atacar levantándose
@@ -653,7 +653,7 @@ En caso de que un jugador lance el jugg después de haber sido impactado, este d
 No respetar esta penalización conllevará una falta grave indirecta (_Incumplir el tiempo de penalización_).
 
 ### Golpe en la ropa
-En caso de que un jugador recibe un golpe (generalmente en la ropa) el cual el árbitro está seguro que por las circustancias del juego el arbitro no ha podido notar, este deberá añadir una penalización de 5 intervalos (8 en el caso de un impacto de *kette*).
+En caso de que un jugador recibe un golpe (generalmente en la ropa) el cual el árbitro está seguro que por las circustancias del juego el arbitro no ha podido notar, este deberá añadir una penalización de 5 intervalos.
 
 No respetar esta penalización conllevará una falta grave indirecta (_Incumplir el tiempo de penalización_).
 
@@ -717,7 +717,7 @@ Existen dos tipos de faltas graves:
 Son aquellas que sancionan una falta leve no autorabitrada. El jugador sancionado deberá cumplir la falta leve no autoarbitrada durante el punto en el que la haya cometido y, además, deberá cumplir un tiempo de penalización de 5 intervalos al inicio del siguiente punto, arrodillándose dentro del terreno de juego al comienzo del mismo.
 
 #### Faltas graves directas
-Son aquellas sancionadas directamente por el árbitro sin posibilidad de autoarbitraje. El jugador sancionado deberá cumplir un tiempo de penalización de 5 intervalos (8 en el caso de un impacto de *kette* no autoarbitrado) en el momento en el que el árbitro le sancione con la falta y, además, deberá cumplir un tiempo de penalización de 5 intervalos al inicio del siguiente punto, arrodillándose dentro del terreno de juego al comienzo del mismo.
+Son aquellas sancionadas directamente por el árbitro sin posibilidad de autoarbitraje. El jugador sancionado deberá cumplir un tiempo de penalización de 5 intervalos en el momento en el que el árbitro le sancione con la falta y, además, deberá cumplir un tiempo de penalización de 5 intervalos al inicio del siguiente punto, arrodillándose dentro del terreno de juego al comienzo del mismo.
 
 #### Cumplimiento de sanciones
 Independientemente del tipo de falta, la sanción al comienzo del siguiente punto será cumplida por aquella persona que cometió la falta, salvo que pase esta a ocupar una posición de prioridad menor según lo indicado en la siguiente tabla:
