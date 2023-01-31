@@ -291,7 +291,6 @@ Un impacto válido hace que el jugador tenga que arrodillarse y realizar una cue
 
 No está permitido atacar con el arma agarrada incorrectamente. Se considerará que el arma no se agarra correctmanete si:
 - Con un arma a dos manos no se agarra con dos manos.
-- Con una combinación de dos armas sólo se sujeta uno de los elementos.
 - Con una combinación que involucre un escudo, este no se agarra correctamente, es decir, no se sujeta desde el agarrre del escudo.
 
 Los golpes realizados bajo esta condición se considerarán falta y no producirán impactos válidos.
@@ -575,11 +574,8 @@ Un jugador no activo **SÍ** acumula tiempos de penalización por faltas (salvo 
 Se considera la combinación de dos espadas cortas como una combinación específica de armas con las siguientes reglas especiales:
 
 - Un jugador que use esta combinación de armas puede atacar levantándose empuñando una única arma sin que se considere que no se agarra correctamente.
-- Un jugador que use esta combinación de armas sigue sin poder abandonar un arma a voluntad.
-- Un jugador que use esta combinación de armas puede atacar con la otra espada si se desprende de una de manera involuntaria sin que se considere falta. Una vez finalizada esa acción, deberá proceder a recoger su arma.
+- Un jugador que use esta combinación de armas puede atacar con la otra espada si se desprende de una de manera por el motivo que fuera. Podrá recoger su espada en cualquier momento del punto o la finalizar el mismo.
 - Un jugador que use esta combinación de armas podrá pinear a un jugador con cada una de sus espadas.
-
-Hay que tener en cuenta que el jugador sigue sin poder desprenderse de manera voluntaria de una de sus espadas para realizar un atque.
 
 
 # CAPÍTULO 6: SANCIONES
