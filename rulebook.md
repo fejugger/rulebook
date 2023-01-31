@@ -430,21 +430,10 @@ Cuando un pineo finaliza puede ocurrir que el jugador arrodillado:
 
 En ambos casos si el intervalo suena justo cuando se está liberando el pineo, no será tenido en cuenta y habrá que esperar a que suene el siguiente.
 
-## 5.7 CARGAS
-Una carga es un golpe que realiza un jugador con alguna parte de su cuerpo o de su arma que no sea considerada zona de impacto sobre un oponente.
+## 5.7 JUEGO PELIGROSO
+Se considerará juego peligroso cualquier acción que ponga en peligro la integridad física de otro jugador, independientemente del equipo al que pertenezca.
 
-Si existe la posibilidad de que las trayectorias de los jugadores hagan que estos choquen en movimiento, deberán detenerse antes del impacto.
-
-Se tendrán en cuenta las siguientes consideraciones:
-
-- Un golpe con el cuerpo contra el cuerpo del rival o una zona de su arma que no produzca impactos válidos, debe considerarse carga, independientemente de la intensidad del mismo.
-- Un golpe entre dos armas, ya sea entre zonas de golpeo válidas o zonas que no produzcan impactos válidos, seguirán siendo golpes entre armas y por lo tanto no serán considerados carga.
-
-El contacto físico entre jugadores del mismo equipo no es considerado carga, por lo que sí está permitido siempre que no ponga en peligro su integridad física.
-
-Siempre que un jugador **RECIBA** una carga y considere que la fuerza del golpe no ha sido significativa, está en la libertad de indicar de manera visible para los árbitros al jugador que realizó la carga que continúe jugando y no lo considere falta. En todo momento es el jugador que recibe la carga el único con potestad para decidir, nunca podrá hacerlo el jugador que la realizó.
-
-Las cargas son consideradas faltas y no producen impactos válidos. Esto es, si se realiza una carga con el fin de obtener cualquier tipo de ventaja a la hora de conseguir un golpe, el impacto no se considerará válido.
+Estas acciones son consideradas faltas y el jugador pasará a ser considerado como *no activo* por lo que no producirá impactos válidos.
 
 ## 5.8 LUCHA DE CORREDORES
 Los corredores pueden luchar entre ellos. Las técnicas que están permitidas son:
@@ -601,7 +590,7 @@ Las situaciones en las que se puede dar un aviso son:
 
 - A un jugador que no realice su cuenta correctamente (no incluye no completarla ni influir negativamente en el desarrollo del juego). 
 - A un jugador que apure mucho la entrada al campo en el inicio del punto. 
-- A un jugador que casi realiza una falta. Ejemplos: tarda un poco en agacharse, casi hace una carga, casi da un tirón con el arma.
+- A un jugador que casi realiza una falta. Ejemplos: tarda un poco en agacharse, casi hace una juego peligroso, casi da un tirón con el arma.
 
 La reiteración de estas acciones podrá acarrear una falta grave al jugador.
 
@@ -666,7 +655,6 @@ Las faltas leves son aquellas acciones que no cambian en exceso el resultado del
 
 Las faltas leves se producen en los siguientes casos:
 
-- Cargas sobre un jugador. 
 - Realizar un pineo ilegal (doble, con el escudo o el kette, uso incorrecto del arma). 
 - Realizar tirones fuertes del arma o la cadena cuando están trabadas entre sí. El sancionado es aquel o aquellos que realizan los tirones. 
 - Golpear el *jugg* con el cuerpo (por ejemplo dar una patada) habiendo o no un arma entre el *jugg* y el cuerpo a excepción de las manos del corredor. 
@@ -731,7 +719,6 @@ Las **faltas graves directas** se producen en los siguientes casos:
 
 - Realizar acciones que pongan en peligro la integridad de otros jugadores.
 	- Juego peligroso. 
-	- Cargas. 
 	- Golpes muy fuertes. 
 	- Golpear a alguien voluntariamente con alguna parte del cuerpo. 
 	- Lanzar el *jugg* contra un jugador o fuera del campo de forma intencionada. 
