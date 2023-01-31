@@ -304,17 +304,21 @@ Sí está permitido defenderse agarrando el arma a una mano.
 Un impacto realizado por un *kette* genera una penalización de 8 intervalos. El *kette* realiza impactos válidos cuando está en movimiento en cualquiera de sus direcciones y:
 
 - Golpea con la bola con las condiciones generales anteriormente descritas. 
-- Enrolla con la cadena (realizando una O) al menos una zona de impacto válida de un jugador.
+- Enrolla con el *kette* (realizando una O) al menos una zona de impacto válida de un jugador.
 
-No se considerarán impactos los golpes que se realicen mientras la cadena se encuentre enrollada en un arma u otro jugador (realizando un círculo completo) o los que se produzcan estando la bola detenida. Tampoco serán válidos los impactos que se realicen con la bola con un movimiento directamente producido por darle una patada a la misma (un golpe con el pie, la rodilla o la pierna).
+No se considerarán impactos los golpes que se realicen mientras el *kette* se encuentre enrollada en un arma u otro jugador (realizando un círculo completo) o los que se produzcan estando la bola detenida. Tampoco serán válidos los impactos que se realicen con la bola con un movimiento directamente producido por darle una patada a la misma (un golpe con el pie, la rodilla o la pierna).
 
-Todos los impactos múltiples de la cadena serán válidos siempre que ésta mantenga el movimiento, independientemente de si ha impactado a otro jugador, un arma o el suelo.
+Todos los impactos múltiples de la *kette* serán válidos siempre que ésta mantenga el movimiento, independientemente de si ha impactado a otro jugador, un arma o el suelo.
 
-Un jugador activo puede enrollar y sujetar la cadena con sus armas sin consecuencias. En cualquier caso, si un cadenero es impactado, se deberá proceder a destrabar las armas. Si el *pompfer* es impactado, este deberá facilitar al cadenero el destrabe del *kette* sin soltar su arma.
+Un jugador activo puede enrollar y sujetar el *kette* con sus armas sin consecuencias. En cualquier caso, si uno de los jugadores es impactado se deberá proceder a destrabar las armas. 
 
-Se considerará que el *pompfer* facilita el destrabe cuando ofrece el arma o la extremidad al cadenero de forma que la parte trabada le quede lo más cerca y lo más despejada posible sin estar en contacto con el suelo, pudiendo incluso cederle el arma para que pueda destrabar más fácilmente. El cadenero está obligado a devolver el arma una vez destrabe
+El jugador que recibió el impacto deberá intentar destrabar las armas, en caso de que el proceso no sea inmediato, procederá a soltar su arma y será responsabilidad del jugador activo destrabar las armas. El jugador activo podrá continuar sus acciones y desplazarse a otra lugar más seguro para realizar el destrabe. El jugador activo deberá devolver el arma al jugador en la medida que le sea posible en base a las circustancias del juego.
 
-Lo mismo se aplica al caso de cadenero impactado y *pompfer* activo. El cadenero ha de ofrecer su arma para que el *pompfer* destrabe de la forma más cómoda posible, incluso llegando a soltar el *kette*, que deberá serle devuelto. 
+En caso de que ambos jugadores resulten inactivos como resultado de una o de más acciones del juego, el *pompfer* deberá soltar su arma y el cadenero será el responsable de destrabar. El cadenero no podrá reincorporarse al juego hasta que haya destrabado, aunque sí podrá empezar su cuenta. Una vez finalice el destrabe, deberá devolver el arma al jugador.
+
+En caso de que se traben dos *kettes* y ambos resulen inactivos, será indistinto que jugador realice el destrabe.
+
+En caso de que el *kette* se trabe en el cuerpo de un jugador, el *pompfer* intentará destrabar, en caso de que el proceso no sea inmediato, deberá ofrece la extremidad al cadenero de forma que la parte trabada quede lo más cerca y lo más despejada posible sin estar en contacto con el suelo.
 
 El *kette* no puede girar si tiene un arma enrollada, además de que ningún jugador podrá destrabar las armas con tirones, especialmente si el *kette* se encuentra trabado en el cuerpo de una persona.
 
@@ -385,6 +389,7 @@ Existen una serie de acciones sin embargo que el jugador arrodillado tiene permi
 - Dirigir o dar órdenes al equipo. 
 - Sacar el *jugg* de la base tras un punto no válido. 
 - Destrabar una cadena o facilitar su destrabe. 
+- Aproximar un arma a otro jugador.
 - Pivotar sobre la rodilla sobre la que se arrodilló siempre que no se libere del pineo. 
 - Protegerse de un impacto. 
 - Estirar o contraer el tronco.
@@ -522,16 +527,13 @@ Si esto resultara imposible, el árbitro procederá a resolver la acción de la 
 Si las bases estuvieran ancladas al suelo y estas se desplazaran, sí se considerará falta del jugador que la desplazó. 
 
 ## 5.14 ABANDONAR EL ARMA
-Un jugador no puede abandonar su arma en el campo de manera voluntaria para intervenir en ninguna situación del juego.
+Durante el transcurso de un punto, un jugador se puede desprender de su arma por dos motivos:
+- De manera involuntaria como lance de una acción del juego.
+- Porque es un jugador inactivo y su arma ha sido trabada por un *kette*.
 
-En ningún caso se considerará abandono del arma en los siguientes casos:
+Un jugador puede abandonar su arma en el campo de manera voluntaria para intervenir continuar una situación del juego.
 
-- Soltar el arma en el suelo para realizar una cuenta de penalización. 
-- Ceder el arma a otro jugador para que destrabe estando inactivo. 
-- Soltar el kette para evitar un tirón peligroso en un jugador.
-
-En caso de que se desprenda de su arma de manera involuntaria, se le seguirá considerando jugador activo, pero las únicas acciones que le están permitidas serán defenderse ante ataques (bloqueando o huyendo) y moverse por el campo para recuperar su arma. Cualquier otra acción, será considerada abandono del arma y, por tanto, supondrá una falta.
-
+En caso de que se desprenda de su arma de manera involuntaria, se le seguirá considerando jugador activo.
 Si un jugador resulta impactado en esta situación, podrá elegir recoger su arma antes de realizar la cuenta o después.
 
 Si recoge su arma antes, no acumulará más impactos, pero deberá iniciar la cuenta cuando regrese a la posición en la que fue impactado.
@@ -668,7 +670,7 @@ Las faltas leves se producen en los siguientes casos:
 
 - Cargas sobre un jugador. 
 - Realizar un pineo ilegal (doble, con el escudo o el kette, uso incorrecto del arma). 
-- Realizar tirones fuertes del arma o la cadena cuando están trabadas entre sí. El sancionado es aquel o aquellos que realizan los tirones. 
+- Realizar tirones fuertes del arma o el *kette* cuando están trabadas entre sí. El sancionado es aquel o aquellos que realizan los tirones. 
 - Golpear el *jugg* con el cuerpo (por ejemplo dar una patada) habiendo o no un arma entre el *jugg* y el cuerpo a excepción de las manos del corredor. 
 - Realizar placajes o agarres indebidos a otro corredor.
 - No respetar el intervalo después de un pineo. 
@@ -739,11 +741,10 @@ Las **faltas graves directas** se producen en los siguientes casos:
 - No marcar un punto cuando se está en clara disposición de poder hacerlo sin que un oponente lo pueda evitar (perder tiempo).
 - Abandonar la zona de equipo sin causa justificada.
 - No realizar el tiempo de penalización voluntariamente tras cometer una falta leve o recibir una asistencia arbitral o un impacto.
-- Intervenir en el juego de forma directa (acciones no verbales) durante el tiempo de penalización o de inactividad. Excepciones: ayudar a destrabar la cadena y sacar el *jugg* de la marca cuando el tanto no es válido.
+- Intervenir en el juego de forma directa (acciones no verbales) durante el tiempo de penalización o de inactividad. Excepciones: ayudar a destrabar el *kette*, aproximar un arma a un jugador y sacar el *jugg* de la marca cuando el tanto no es válido.
 - Interferir en el desarrollo del partido de manera negativa por parte de un jugador que no participa en el punto.
-- Impedir voluntariamente el destrabe de la cadena una vez que se ha recibido un impacto válido.
+- Impedir voluntariamente el destrabe del *kette* una vez que se ha recibido un impacto válido.
 - No soltar el *kette* de su agarre de manera **inmediata** cuando se trabe a un jugador y se ponga en peligro su seguridad.
-- Abandonar un arma en el campo. 
 - Trato irrespetuoso a espectadores, equipo arbitral o jugadores.
 - Desobediencia al equipo arbitral. 
 - Tomar decisiones arbitrales y comunicarlas al resto de jugadores generando confusión (no confundir con repetir las decisiones del equipo arbitral).
