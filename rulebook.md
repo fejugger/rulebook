@@ -309,7 +309,7 @@ También se considerarán falta los fondos con el stab.
 
 Sí está permitido defenderse agarrando el arma a una mano.
 
-### 5.1.1 Kette
+### 5.1.1 Impactos de Kette
 Un impacto realizado por un *kette* genera una penalización de 8 intervalos. El *kette* realiza impactos válidos cuando está en movimiento en cualquiera de sus direcciones y:
 
 - Golpea con la bola con las condiciones generales anteriormente descritas. 
