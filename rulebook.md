@@ -247,6 +247,15 @@ Un punto se repetirá en los siguientes casos:
 
 Se entiende como consecuencia directa aquella acción que al resolverse implica la consecución de un tanto de manera inmediata. Si la acción antirreglamentaria sucede antes de otra acción totalmente legal que conlleve la consecución de un punto, NO se considerará consecuencia directa y NO se reiniciará el punto aunque sí deberá sancionarse la falta o faltas graves pertinentes. Si el árbitro viese la falta de forma clara, deberá sancionar al jugador o jugadores en el acto, impidiendo que continúen jugando e influyan negativamente en el desarrollo del punto.
 
+#### Juego Pasivo
+Si por las características del encuentro el partido no acabara de una manera autónoma (finalize el tiempo de ronda, finalicen los intervalos, etc...) y un punto se viera estancado en una situación del juego que ningún equipo tuviera interés en resolver, el árbitro deberá determinar _juego pasivo_ y comezar un nuevo punto.
+
+Para poder determinar _juego pasivo_ el árbitro debe identificar que la situación está bloqueada, en ese momento procederá a notificar a los qwikers de ambos equipos que ha identificado un posible _juego pasivo_. Si ambos equipos continuan sin desbloquear la situación. El arbitro principal dentendrá el juego y se iniciará un nuevo punto.
+
+Hay que tener en cuenta que el _juego pasivo_ genera un punto nuevo, es decir, no se trata  de una repetición del punto anterior, por lo que las sanciones que se cumplieron al inicio del punto que se bloqueó se considerarán cumplicadas. Sí se deberán cumplir las sanciones que se cometieron durante el punto que acabó como _juego pasivo_.
+
+Los casos más típicos en los que se puede dar _juego pasivo_ es en los partidos a sets o en el jugg de oro.
+
 ### 4.2.3 Sustituciones
 Una sustitución es un cambio justificado de un jugador que estaba en el campo por otro del mismo equipo que no. Las sustituciones solo podrán realizarse durante las interrupciones del juego. El número de sustituciones es ilimitado, con la condición de que se realicen entre los posibles 10 jugadores definidos del equipo y solo se cambie al mismo jugador una vez por interrupción.
 
@@ -856,6 +865,7 @@ El árbitro principal es el máximo responsable un partido. El árbitro principa
 - Avisar de las faltas sancionadas. 
 - Asegurar que el *jugg* está en la posición correcta al inicio de cada punto.
 - Hacer que el juego se lleve a cabo correctamente, comprobando los tiempos de penalización y los impactos.
+- Determinar _juego pasivo_ cuando sea necesario.
 
 ### 7.2.2 Secundario
 Su función esencial es la de prestar apoyo en todo momento al árbitro principal. Sus funciones son muy similares a las del árbitro principal. No obstante, es el árbitro principal el que tiene la última palabra en todas las decisiones. También deberá apoyarle al comienzo del punto.
