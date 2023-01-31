@@ -149,7 +149,7 @@ El escudo debe ser redondo y tener un diámetro de 60 cm y un grosor de hasta 25
 ### 3.2.6 Kette
 ![Kette - Imagen 12](https://fejugger.es/images/doc/reglamento/imagen12.png)
 
-El *kette* tiene unas dimensiones máximas de 320 cm. El *kette* está formado por una bola de 20 cm de diámetro (no puede ser de medida inferior) y un conjunto de enlace y agarre de hasta 300 cm. 
+El *kette* tiene unas dimensiones máximas de 320 cm. El *kette* está formado por una bola de entre 55 cm y 77 cm de perímetro (18-22 cm de diámetro) y un conjunto de enlace y agarre de longitud variable. En niungún caso la longitud total puede superar la medida máxima definida.
 
 La bola debe ser una esfera de material blando que **NO** puede estar cubierta en su totalidad con cinta. 
 
@@ -247,6 +247,15 @@ Un punto se repetirá en los siguientes casos:
 
 Se entiende como consecuencia directa aquella acción que al resolverse implica la consecución de un tanto de manera inmediata. Si la acción antirreglamentaria sucede antes de otra acción totalmente legal que conlleve la consecución de un punto, NO se considerará consecuencia directa y NO se reiniciará el punto aunque sí deberá sancionarse la falta o faltas graves pertinentes. Si el árbitro viese la falta de forma clara, deberá sancionar al jugador o jugadores en el acto, impidiendo que continúen jugando e influyan negativamente en el desarrollo del punto.
 
+#### Juego Pasivo
+Si por las características del encuentro el partido no acabara de una manera autónoma (finalize el tiempo de ronda, finalicen los intervalos, etc...) y un punto se viera estancado en una situación del juego que ningún equipo tuviera interés en resolver, el árbitro deberá determinar _juego pasivo_ y comezar un nuevo punto.
+
+Para poder determinar _juego pasivo_ el árbitro debe identificar que la situación está bloqueada, en ese momento procederá a notificar a los qwikers de ambos equipos que ha identificado un posible _juego pasivo_. Si ambos equipos continuan sin desbloquear la situación. El arbitro principal dentendrá el juego y se iniciará un nuevo punto.
+
+Hay que tener en cuenta que el _juego pasivo_ genera un punto nuevo, es decir, no se trata  de una repetición del punto anterior, por lo que las sanciones que se cumplieron al inicio del punto que se bloqueó se considerarán cumplicadas. Sí se deberán cumplir las sanciones que se cometieron durante el punto que acabó como _juego pasivo_.
+
+Los casos más típicos en los que se puede dar _juego pasivo_ es en los partidos a sets o en el jugg de oro.
+
 ### 4.2.3 Sustituciones
 Una sustitución es un cambio justificado de un jugador que estaba en el campo por otro del mismo equipo que no. Las sustituciones solo podrán realizarse durante las interrupciones del juego. El número de sustituciones es ilimitado, con la condición de que se realicen entre los posibles 10 jugadores definidos del equipo y solo se cambie al mismo jugador una vez por interrupción.
 
@@ -308,9 +317,9 @@ Un impacto realizado por un *kette* genera una penalización de 8 intervalos. El
 
 No se considerarán impactos los golpes que se realicen mientras el *kette* se encuentre enrollada en un arma u otro jugador (realizando un círculo completo) o los que se produzcan estando la bola detenida. Tampoco serán válidos los impactos que se realicen con la bola con un movimiento directamente producido por darle una patada a la misma (un golpe con el pie, la rodilla o la pierna).
 
-Todos los impactos múltiples de la *kette* serán válidos siempre que ésta mantenga el movimiento, independientemente de si ha impactado a otro jugador, un arma o el suelo.
+Todos los impactos múltiples del *kette* serán válidos siempre que ésta mantenga el movimiento, independientemente de si ha impactado a otro jugador, un arma o el suelo.
 
-Un jugador activo puede enrollar y sujetar el *kette* con sus armas sin consecuencias. En cualquier caso, si uno de los jugadores es impactado se deberá proceder a destrabar las armas. 
+Un jugador activo puede enrollar y sujetar el *kette* con sus armas sin consecuencias. En cualquier caso, si un cadenero es impactado, se deberá proceder a destrabar las armas. Si el *pompfer* es impactado, este deberá facilitar al cadenero el destrabe del *kette* sin soltar su arma.
 
 El jugador que recibió el impacto deberá intentar destrabar las armas, en caso de que el proceso no sea inmediato, procederá a soltar su arma y será responsabilidad del jugador activo destrabar las armas. El jugador activo podrá continuar sus acciones y desplazarse a otra lugar más seguro para realizar el destrabe. El jugador activo deberá devolver el arma al jugador en la medida que le sea posible en base a las circustancias del juego.
 
@@ -387,8 +396,8 @@ Si un jugador arrodillado no está activo y realiza un impacto a otro jugador, s
 Existen una serie de acciones sin embargo que el jugador arrodillado tiene permitido realizar dado que **NO** influyen negativamente en el juego:
 
 - Dirigir o dar órdenes al equipo. 
-- Sacar el *jugg* de la base tras un punto no válido. 
-- Destrabar una cadena o facilitar su destrabe. 
+- Sacar el *jugg* de la base tras un punto no válido.
+- Destrabar el *kette* o facilitar su destrabe. 
 - Aproximar un arma a otro jugador.
 - Pivotar sobre la rodilla sobre la que se arrodilló siempre que no se libere del pineo. 
 - Protegerse de un impacto. 
@@ -670,7 +679,7 @@ Las faltas leves se producen en los siguientes casos:
 
 - Cargas sobre un jugador. 
 - Realizar un pineo ilegal (doble, con el escudo o el kette, uso incorrecto del arma). 
-- Realizar tirones fuertes del arma o el *kette* cuando están trabadas entre sí. El sancionado es aquel o aquellos que realizan los tirones. 
+- Realizar tirones fuertes del arma o del *kette* cuando están trabadas entre sí. El sancionado es aquel o aquellos que realizan los tirones. 
 - Golpear el *jugg* con el cuerpo (por ejemplo dar una patada) habiendo o no un arma entre el *jugg* y el cuerpo a excepción de las manos del corredor. 
 - Realizar placajes o agarres indebidos a otro corredor.
 - No respetar el intervalo después de un pineo. 
@@ -857,6 +866,7 @@ El árbitro principal es el máximo responsable un partido. El árbitro principa
 - Avisar de las faltas sancionadas. 
 - Asegurar que el *jugg* está en la posición correcta al inicio de cada punto.
 - Hacer que el juego se lleve a cabo correctamente, comprobando los tiempos de penalización y los impactos.
+- Determinar _juego pasivo_ cuando sea necesario.
 
 ### 7.2.2 Secundario
 Su función esencial es la de prestar apoyo en todo momento al árbitro principal. Sus funciones son muy similares a las del árbitro principal. No obstante, es el árbitro principal el que tiene la última palabra en todas las decisiones. También deberá apoyarle al comienzo del punto.
