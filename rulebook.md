@@ -192,7 +192,7 @@ Es el periodo de juego que transcurre desde que el árbitro pregunta al corredor
 ### 4.1.3 Tantos
 Para anotar un tanto el corredor debe colocar el *jugg* dentro de la base contraria. El tanto será válido si ningún corredor está tocando el *jugg* y este se mantiene dentro de la base. Si el *jugg* se sale o ha sido lanzado o dejado caer dentro de la base, el tanto **NO** será válido. 
 
-Se considerará que el *jugg* está dentro de la base si al menos la mitad del jugg se encuentra dentro.
+Se considerará que el *jugg* está dentro de la base si cualquier parte del jugg se encuentra dentro.
 
 En caso de que el tanto **NO** sea válido el punto continuará y un árbitro o un jugador deberán sacar el jugg de la zona de marcaje. 
 
