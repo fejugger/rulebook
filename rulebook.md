@@ -365,7 +365,7 @@ Arrodillarse es la acción que tiene que llevar a cabo un jugador que ha recibid
 
 - El jugador deberá arrodillarse en el lugar del campo que fue impactado. En caso de verse obligado a desplazarse, deberá regresar a la posición del impacto e iniciar su cuenta.
 - Su arma deberá estar de manera horizontal y en el suelo.
-- Si lleva un escudo, no podrá realizar la cuenta con la mano que lo porta. Además el escudo deberá permanecer agarrado en todo momento y no podrá usarse para cubrirse, debiendo estar casi la totalidad de la superficie exterior en contacto con el suelo y con el brazo que lo agarra horientado con la palma hacía arriba.
+- Si lleva un escudo, no podrá realizar la cuenta con la mano que lo porta. Además el escudo deberá permanecer agarrado en todo momento y no podrá usarse para cubrirse, debiendo estar casi la totalidad de la superficie exterior en contacto con el suelo y con el brazo que lo agarra orientado con la palma hacía arriba.
 - Nunca se podrá sujetar un arma con la mano con la que se realiza la cuenta, aunque esta haya terminado.
 - El kette podrá realizar la cuenta con el agarre en la muñeca.
 - Deberá realizar su conteo con la mano en la espalda.
