@@ -328,7 +328,7 @@ Lo mismo se aplica al caso de cadenero impactado y *pompfer* activo. El cadenero
 El *kette* no puede girar si tiene un arma enrollada, además de que ningún jugador podrá destrabar las armas con tirones, especialmente si el *kette* se encuentra trabado en el cuerpo de una persona.
 
 ### 5.1.2 Escudo
-El escudo está considerado un arma defensiva con lo que los golpes con el escudo no serán considerados válidos. El escudo debe sujetarse desde el agarre.
+El escudo está considerado un arma defensiva con lo que los golpes con el escudo no serán considerados válidos.
 
 ### 5.1.3 Fuerza desmesurada y aturdimiento
 Se considerará que un golpe se realiza con **fuerza desmesurada** cuando este se realice con un exceso de fuerza innecesario para la situación del juego. Cualquier jugador podrá solicitar que un golpe recibido fue con fuerza desmesurada. En este caso quedará a discreción del jugador que realizó el impacto agacharse por falta leve. En caso de que decida continuar (por qué considera que el impacto no fue con fuerza desmesurada) un árbitro podrá sancionar con falta grave, si él así lo considera. El ejemplo más claro es cuando se golpea a un corredor, o un cadenero indefenso.
@@ -422,7 +422,7 @@ Un jugador podrá atacar en cualquier momento una vez haya terminado su cuenta. 
 ## 5.6 PINEOS
 Cualquier jugador arrodillado es susceptible de ser pineado, para ello otro jugador debe apoyar su arma en él. Un pineo es un tipo de impacto que evita que el jugador se levante, por lo que se rige por las mismas normas que estos con las siguientes excepciones:
 
-- El kette no puede pinear.
+- El kette no puede pinear ni golpear repetidamente a un jugador inactivo.
 - No se puede pinear con un kette trabado en el arma.
 - En vez de generar un tiempo de penalización, pinear bloquea a un jugador en el suelo mientras dure el pineo.
 - No se puede pinear a dos jugadores a la vez. 
@@ -430,7 +430,7 @@ Cualquier jugador arrodillado es susceptible de ser pineado, para ello otro juga
 - Se puede golpear a un jugador con el mismo arma mientras se pinea. 
 - No se puede alternar constantemente el pineo entre dos jugadores si se les impide intentar levantarse (es decir, si no se permite respetar al menos el intervalo del pineo).
 - Un golpe directo no se considera un pineo. Para que un pineo se considere válido hay que mantener el arma encima del jugador.
-- Se considerará que un jugador está pineando a otro si le golpea de manera repetida en intervalos casi inmediatos impidiendo que se levante.
+- Muchos golpes consecutivios casi inmediatos también se consideraran como un pineo.
 
 Cuando un pineo finaliza puede ocurrir que el jugador arrodillado:
 
@@ -687,7 +687,8 @@ Las faltas leves se producen en los siguientes casos:
 - Romper el arma propia.
 - El uso de fuerza desmesurada, tanto en lucha de corredores como a la hora de realizar impactos con un arma.
 - Bloquear el orificio de la zona de marcaje. 
-- Mover el arma a un jugador arrodillado de manera negativa para el dueño y por acción que no sea un lance del juego.
+- Bloquear o mover el arma a un jugador arrodillado de manera negativa para el dueño y por acción que no sea un lance del juego.
+- Golpear de manera brusca con el cuerpo el arma de otro jugador.
 - Agarrar el arma de otro jugador con las manos u otra parte del cuerpo, excepto si se está destrabando un arma. 
 - Girar el *kette* si tiene un arma enrollada. 
 - El desplazamiento de una base de su posición original cuando esté anclada al suelo y ocurra como lance del juego. 
