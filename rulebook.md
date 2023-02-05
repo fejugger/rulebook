@@ -373,7 +373,8 @@ Según el sistema de juego al mismo tiempo se refiere a que los impactos han de 
 Arrodillarse es la acción que tiene que llevar a cabo un jugador que ha recibido un impacto válido y/o una falta y que consiste en poner como mínimo una rodilla en el suelo hasta que pase el tiempo de penalización. Durante este tiempo el jugador debe cumplir las siguientes normas:
 
 - El jugador deberá arrodillarse en el lugar del campo que fue impactado. En caso de verse obligado a desplazarse, deberá regresar a la posición del impacto e iniciar su cuenta.
-- Su arma deberá estar de manera horizontal y en el suelo (en el caso del escudo, se permitirá no retirar el agarre siempre y cuando se realice la cuenta con la otra mano y la espada se encuentre en el suelo).
+- Su arma deberá estar de manera horizontal y en el suelo.
+- Si lleva un escudo, no podrá realizar la cuenta con la mano que lo porta. Además el escudo deberá permanecer agarrado en todo momento y no podrá usarse para cubrirse.
 - Nunca se podrá sujetar un arma con la mano con la que se realiza la cuenta, aunque esta haya terminado.
 - El kette podrá realizar la cuenta con el agarre en la muñeca.
 - Deberá realizar su conteo con la mano en la espalda.
