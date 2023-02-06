@@ -502,7 +502,7 @@ Se considerará que un jugador está fuera si con alguna parte de su cuerpo toca
 
 Asimismo, se considerará que el *jugg* está fuera si toca la línea que delimita el campo o más allá. Se considerará que ha lanzado el *jugg* fuera el último jugador que lo tocó, lo haya hecho o no de manera intencionada, y ya fuera con el cuerpo o con el arma.
 
-Esta norma no aplica si un rival lanza el *jugg* de manera deliberada contra el jugador y por rebote el *jugg* acaba fuera. En este caso, el jugador que lo lanzó recibirá una falta grave y no se sancionará falta al jugador que recibió el impacto del *jugg* por sacarlo fuera.
+Esta norma no aplica si un rival lanza el *jugg* de manera deliberada contra el jugador y por rebote el *jugg* acaba fuera. En este caso, el jugador que lo lanzó recibirá una falta grave y no se sancionará con ninguna penalización al jugador que recibió el impacto del *jugg* por sacarlo fuera.
 
 Cuando el *jugg* es lanzado fuera del campo, el punto no se detiene y este tiene que regresar de inmediato dentro del campo. Si esto no ocurriera, el corredor está autorizado a salir del campo a recogerlo por el sitio más cercano y regresar dentro tan rápido como sea posible y por el mismo punto del campo por el que salió. Para ello deberá levantar el brazo indicando el propósito de su salida y durante el tiempo que esté fuera del campo SÍ podrá ser impactado.
 
@@ -569,15 +569,16 @@ Situaciones más comunes en las que un jugador no está activo:
 - Cuando se le ha roto el arma y lo avisa. 
 - Cuando ha quedado aturdido tras ser impactado en la cabeza. 
 - Cuando ha sido impactado. 
-- Cuando ha cometido una falta y debe realizar un tiempo de penalización. 
+- Cuando ha cometido una falta o debe realizar un tiempo de penalización. 
 - Cuando el árbitro principal detiene el partido
 
 Un jugador no activo **NO** acumula tiempos de penalización por impactos excepto los siguientes casos:
 
  - Aún no ha sido impactado.
- - Ha cometido una falta (salvo pisar fuera) y aún no se ha arrodillado.
+ - Ha cometido una falta y aún no se ha arrodillado.
+ - Las aclaraciones arbitrales _Lanzar el jugg fuera_ y _Lanzar el jugg tarde_.
 
-En ambos casos acumulará el tiempo de penalización del primer impacto que reciba.
+En todos los casos acumulará el tiempo de penalización del primer impacto que reciba.
 
 Un jugador no activo **SÍ** acumula tiempos de penalización por faltas (salvo pisar fuera).
 
