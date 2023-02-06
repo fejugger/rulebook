@@ -586,11 +586,10 @@ Un jugador no activo **SÍ** acumula tiempos de penalización por faltas (salvo 
 Se considera la combinación de dos espadas cortas como una combinación específica de armas con las siguientes reglas especiales:
 
 - Un jugador que use esta combinación de armas puede atacar levantándose empuñando una única arma sin que se considere que no se agarra correctamente.
-- Un jugador que use esta combinación de armas sigue sin poder abandonar un arma a voluntad.
+- Un jugador que use esta combinación de armas sigue sin poder desprenderse de manera voluntaria de una de sus espadas para realizar un ataque ni abandonar un arma a voluntad.
 - Un jugador que use esta combinación de armas puede atacar con la otra espada si se desprende de una de manera involuntaria sin que se considere falta. Una vez finalizada esa acción, deberá proceder a recoger su arma.
 - Un jugador que use esta combinación de armas podrá pinear a un jugador con cada una de sus espadas.
 
-Hay que tener en cuenta que el jugador sigue sin poder desprenderse de manera voluntaria de una de sus espadas para realizar un atque.
 
 
 # CAPÍTULO 6: SANCIONES
