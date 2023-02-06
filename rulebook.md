@@ -576,7 +576,7 @@ Un jugador no activo **NO** acumula tiempos de penalización por impactos except
 
  - Aún no ha sido impactado.
  - Ha cometido una falta y aún no se ha arrodillado.
- - Las aclaraciones arbitrales _Lanzar el jugg fuera_ y _Lanzar el jugg tarde_.
+ - Las asistencias arbitrales _Lanzar el jugg fuera_ y _Lanzar el jugg tarde_.
 
 En todos los casos acumulará el tiempo de penalización del primer impacto que reciba.
 
