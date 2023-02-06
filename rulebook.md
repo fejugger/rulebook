@@ -617,7 +617,7 @@ Las situaciones en las que se puede dar un aviso son:
 La reiteración de estas acciones podrá acarrear una falta grave al jugador.
 
 ## 6.2 ASISTENCIA ARBITRAL
-Una asistencia arbitral es una intervención por parte de un árbitro sobre una acción que implica que el jugador debe arrodillarse y realizar una cuenta, pero por el tipo de acción no se considera una falta.
+Una asistencia arbitral es una intervención por parte de un árbitro sobre una acción que puede requerir de su aclaración y puede implicar que el jugador deba arrodillarse y realizar una cuenta, pero por el tipo de acción no se considera una falta.
 
 Normalmente este tipo de acciones generan confusión en el juego, por lo que el arbitro debe intervenir y asistir al jugador en la medida de lo posible. Si el jugador es consciente de cometer alguna de estas acciones puede actuar en consecuencia sin necesidad de la intervención del arbitro.
 
