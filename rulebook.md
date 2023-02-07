@@ -89,7 +89,7 @@ El resto de jugadores no pueden interactuar voluntariamente con su cuerpo con el
 Las armas deben de ser seguras. Para todas las armas rigen estas normas:
 
 - Las armas de los *pompfers* tienen que ser de sección redonda y, exceptuando las zonas de agarre, su diámetro debe ser superior a 6 cm e inferior a 15 cm.
-- Las armas rígidas han de tener el alma recta y que no flecte.
+- Las armas rígidas han ser rectas y no pueden flectar. 
 - Las armas no pueden tener anillos a excepción de los refuerzo especiales que generan el escalón del agarre del Q-tip.
 - Las medidas de las armas son máximas estando permitido llevar un arma más corta.
 - Las armas no deben exponer sus materiales y deben estar cubiertas por algún tipo de material.
@@ -149,7 +149,7 @@ El escudo debe ser redondo y tener un diámetro de 60 cm y un grosor de hasta 25
 ### 3.2.6 Kette
 ![Kette - Imagen 12](https://fejugger.es/images/doc/reglamento/imagen12.png)
 
-El *kette* tiene unas dimensiones máximas de 320 cm. El *kette* está formado por una bola de 20 cm de diámetro (no puede ser de medida inferior) y un conjunto de enlace y agarre de hasta 300 cm. 
+El *kette* tiene unas dimensiones máximas de 320 cm. El *kette* está formado por una bola de entre 55 cm y 77 cm de perímetro (18-22 cm de diámetro) y un conjunto de enlace y agarre de longitud variable. En niungún caso la longitud total puede superar la medida máxima definida.
 
 La bola debe ser una esfera de material blando que **NO** puede estar cubierta en su totalidad con cinta. 
 
@@ -247,6 +247,15 @@ Un punto se repetirá en los siguientes casos:
 
 Se entiende como consecuencia directa aquella acción que al resolverse implica la consecución de un tanto de manera inmediata. Si la acción antirreglamentaria sucede antes de otra acción totalmente legal que conlleve la consecución de un punto, NO se considerará consecuencia directa y NO se reiniciará el punto aunque sí deberá sancionarse la falta o faltas graves pertinentes. Si el árbitro viese la falta de forma clara, deberá sancionar al jugador o jugadores en el acto, impidiendo que continúen jugando e influyan negativamente en el desarrollo del punto.
 
+#### Juego Pasivo
+Si por las características del encuentro el partido no acabara de una manera autónoma (finalize el tiempo de ronda, finalicen los intervalos, etc...) y un punto se viera estancado en una situación del juego que ningún equipo tuviera interés en resolver, el árbitro deberá determinar _juego pasivo_ y comezar un nuevo punto.
+
+Para poder determinar _juego pasivo_ el árbitro debe identificar que la situación está bloqueada, en ese momento procederá a notificar a los qwikers de ambos equipos que ha identificado un posible _juego pasivo_. Si ambos equipos continuan sin desbloquear la situación. El arbitro principal dentendrá el juego y se iniciará un nuevo punto.
+
+Hay que tener en cuenta que el _juego pasivo_ genera un punto nuevo, es decir, no se trata  de una repetición del punto anterior, por lo que las sanciones que se cumplieron al inicio del punto que se bloqueó se considerarán cumplicadas. Sí se deberán cumplir las sanciones que se cometieron durante el punto que acabó como _juego pasivo_.
+
+Los casos más típicos en los que se puede dar _juego pasivo_ es en los partidos a sets o en el jugg de oro.
+
 ### 4.2.3 Sustituciones
 Una sustitución es un cambio justificado de un jugador que estaba en el campo por otro del mismo equipo que no. Las sustituciones solo podrán realizarse durante las interrupciones del juego. El número de sustituciones es ilimitado, con la condición de que se realicen entre los posibles 10 jugadores definidos del equipo y solo se cambie al mismo jugador una vez por interrupción.
 
@@ -300,17 +309,17 @@ También se considerarán falta los fondos con el stab.
 
 Sí está permitido defenderse agarrando el arma a una mano.
 
-### 5.1.1 Kette
+### 5.1.1 Impactos de Kette
 Un impacto realizado por un *kette* genera una penalización de 8 intervalos. El *kette* realiza impactos válidos cuando está en movimiento en cualquiera de sus direcciones y:
 
 - Golpea con la bola con las condiciones generales anteriormente descritas. 
-- Enrolla con la cadena (realizando una O) al menos una zona de impacto válida de un jugador.
+- Enrolla con el *kette* (realizando una O) al menos una zona de impacto válida de un jugador.
 
-No se considerarán impactos los golpes que se realicen mientras la cadena se encuentre enrollada en un arma u otro jugador (realizando un círculo completo) o los que se produzcan estando la bola detenida. Tampoco serán válidos los impactos que se realicen con la bola con un movimiento directamente producido por darle una patada a la misma (un golpe con el pie, la rodilla o la pierna).
+No se considerarán impactos los golpes que se realicen mientras el *kette* se encuentre enrollada en un arma u otro jugador (realizando un círculo completo) o los que se produzcan estando la bola detenida. Tampoco serán válidos los impactos que se realicen con la bola con un movimiento directamente producido por darle una patada a la misma (un golpe con el pie, la rodilla o la pierna).
 
-Todos los impactos múltiples de la cadena serán válidos siempre que ésta mantenga el movimiento, independientemente de si ha impactado a otro jugador, un arma o el suelo.
+Todos los impactos múltiples del *kette* serán válidos siempre que ésta mantenga el movimiento, independientemente de si ha impactado a otro jugador, un arma o el suelo.
 
-Un jugador activo puede enrollar y sujetar la cadena con sus armas sin consecuencias. En cualquier caso, si un cadenero es impactado, se deberá proceder a destrabar las armas. Si el *pompfer* es impactado, este deberá facilitar al cadenero el destrabe del *kette* sin soltar su arma.
+Un jugador activo puede enrollar y sujetar el *kette* con sus armas sin consecuencias. En cualquier caso, si un cadenero es impactado, se deberá proceder a destrabar las armas. Si el *pompfer* es impactado, este deberá facilitar al cadenero el destrabe del *kette* sin soltar su arma.
 
 Se considerará que el *pompfer* facilita el destrabe cuando ofrece el arma o la extremidad al cadenero de forma que la parte trabada le quede lo más cerca y lo más despejada posible sin estar en contacto con el suelo, pudiendo incluso cederle el arma para que pueda destrabar más fácilmente. El cadenero está obligado a devolver el arma una vez destrabe
 
@@ -319,7 +328,7 @@ Lo mismo se aplica al caso de cadenero impactado y *pompfer* activo. El cadenero
 El *kette* no puede girar si tiene un arma enrollada, además de que ningún jugador podrá destrabar las armas con tirones, especialmente si el *kette* se encuentra trabado en el cuerpo de una persona.
 
 ### 5.1.2 Escudo
-El escudo está considerado un arma defensiva con lo que los golpes con el escudo no serán considerados válidos. El escudo debe sujetarse desde el agarre.
+El escudo está considerado un arma defensiva con lo que los golpes con el escudo no serán considerados válidos.
 
 ### 5.1.3 Fuerza desmesurada y aturdimiento
 Se considerará que un golpe se realiza con **fuerza desmesurada** cuando este se realice con un exceso de fuerza innecesario para la situación del juego. Cualquier jugador podrá solicitar que un golpe recibido fue con fuerza desmesurada. En este caso quedará a discreción del jugador que realizó el impacto agacharse por falta leve. En caso de que decida continuar (por qué considera que el impacto no fue con fuerza desmesurada) un árbitro podrá sancionar con falta grave, si él así lo considera. El ejemplo más claro es cuando se golpea a un corredor, o un cadenero indefenso.
@@ -364,7 +373,8 @@ Según el sistema de juego al mismo tiempo se refiere a que los impactos han de 
 Arrodillarse es la acción que tiene que llevar a cabo un jugador que ha recibido un impacto válido y/o una falta y que consiste en poner como mínimo una rodilla en el suelo hasta que pase el tiempo de penalización. Durante este tiempo el jugador debe cumplir las siguientes normas:
 
 - El jugador deberá arrodillarse en el lugar del campo que fue impactado. En caso de verse obligado a desplazarse, deberá regresar a la posición del impacto e iniciar su cuenta.
-- Su arma deberá estar de manera horizontal y en el suelo (en el caso del escudo, se permitirá no retirar el agarre siempre y cuando se realice la cuenta con la otra mano y la espada se encuentre en el suelo).
+- Su arma deberá estar de manera horizontal y en el suelo.
+- Si lleva un escudo, no podrá realizar la cuenta con la mano que lo porta. Además el escudo deberá permanecer agarrado en todo momento y no podrá usarse para cubrirse.
 - Nunca se podrá sujetar un arma con la mano con la que se realiza la cuenta, aunque esta haya terminado.
 - El kette podrá realizar la cuenta con el agarre en la muñeca.
 - Deberá realizar su conteo con la mano en la espalda.
@@ -383,8 +393,8 @@ Si un jugador arrodillado no está activo y realiza un impacto a otro jugador, s
 Existen una serie de acciones sin embargo que el jugador arrodillado tiene permitido realizar dado que **NO** influyen negativamente en el juego:
 
 - Dirigir o dar órdenes al equipo. 
-- Sacar el *jugg* de la base tras un punto no válido. 
-- Destrabar una cadena o facilitar su destrabe. 
+- Sacar el *jugg* de la base tras un punto no válido.
+- Destrabar el *kette* o facilitar su destrabe. 
 - Pivotar sobre la rodilla sobre la que se arrodilló siempre que no se libere del pineo. 
 - Protegerse de un impacto. 
 - Estirar o contraer el tronco.
@@ -413,7 +423,7 @@ Un jugador podrá atacar en cualquier momento una vez haya terminado su cuenta. 
 ## 5.6 PINEOS
 Cualquier jugador arrodillado es susceptible de ser pineado, para ello otro jugador debe apoyar su arma en él. Un pineo es un tipo de impacto que evita que el jugador se levante, por lo que se rige por las mismas normas que estos con las siguientes excepciones:
 
-- El kette no puede pinear.
+- El kette no puede pinear ni golpear repetidamente a un jugador inactivo.
 - No se puede pinear con un kette trabado en el arma.
 - En vez de generar un tiempo de penalización, pinear bloquea a un jugador en el suelo mientras dure el pineo.
 - No se puede pinear a dos jugadores a la vez. 
@@ -421,7 +431,7 @@ Cualquier jugador arrodillado es susceptible de ser pineado, para ello otro juga
 - Se puede golpear a un jugador con el mismo arma mientras se pinea. 
 - No se puede alternar constantemente el pineo entre dos jugadores si se les impide intentar levantarse (es decir, si no se permite respetar al menos el intervalo del pineo).
 - Un golpe directo no se considera un pineo. Para que un pineo se considere válido hay que mantener el arma encima del jugador.
-- Se considerará que un jugador está pineando a otro si le golpea de manera repetida en intervalos casi inmediatos impidiendo que se levante.
+- Muchos golpes consecutivios casi inmediatos también se consideraran como un pineo.
 
 Cuando un pineo finaliza puede ocurrir que el jugador arrodillado:
 
@@ -492,7 +502,7 @@ Se considerará que un jugador está fuera si con alguna parte de su cuerpo toca
 
 Asimismo, se considerará que el *jugg* está fuera si toca la línea que delimita el campo o más allá. Se considerará que ha lanzado el *jugg* fuera el último jugador que lo tocó, lo haya hecho o no de manera intencionada, y ya fuera con el cuerpo o con el arma.
 
-Esta norma no aplica si un rival lanza el *jugg* de manera deliberada contra el jugador y por rebote el *jugg* acaba fuera. En este caso, el jugador que lo lanzó recibirá una falta grave y no se sancionará falta al jugador que recibió el impacto del *jugg* por sacarlo fuera.
+Esta norma no aplica si un rival lanza el *jugg* de manera deliberada contra el jugador y por rebote el *jugg* acaba fuera. En este caso, el jugador que lo lanzó recibirá una falta grave y no se sancionará con ninguna penalización al jugador que recibió el impacto del *jugg* por sacarlo fuera.
 
 Cuando el *jugg* es lanzado fuera del campo, el punto no se detiene y este tiene que regresar de inmediato dentro del campo. Si esto no ocurriera, el corredor está autorizado a salir del campo a recogerlo por el sitio más cercano y regresar dentro tan rápido como sea posible y por el mismo punto del campo por el que salió. Para ello deberá levantar el brazo indicando el propósito de su salida y durante el tiempo que esté fuera del campo SÍ podrá ser impactado.
 
@@ -559,15 +569,16 @@ Situaciones más comunes en las que un jugador no está activo:
 - Cuando se le ha roto el arma y lo avisa. 
 - Cuando ha quedado aturdido tras ser impactado en la cabeza. 
 - Cuando ha sido impactado. 
-- Cuando ha cometido una falta y debe realizar un tiempo de penalización. 
+- Cuando ha cometido una falta o debe realizar un tiempo de penalización. 
 - Cuando el árbitro principal detiene el partido
 
 Un jugador no activo **NO** acumula tiempos de penalización por impactos excepto los siguientes casos:
 
  - Aún no ha sido impactado.
- - Ha cometido una falta (salvo pisar fuera) y aún no se ha arrodillado.
+ - Ha cometido una falta y aún no se ha arrodillado.
+ - Las asistencias arbitrales _Lanzar el jugg fuera_ y _Lanzar el jugg tarde_.
 
-En ambos casos acumulará el tiempo de penalización del primer impacto que reciba.
+En todos los casos acumulará el tiempo de penalización del primer impacto que reciba.
 
 Un jugador no activo **SÍ** acumula tiempos de penalización por faltas (salvo pisar fuera).
 
@@ -575,11 +586,10 @@ Un jugador no activo **SÍ** acumula tiempos de penalización por faltas (salvo 
 Se considera la combinación de dos espadas cortas como una combinación específica de armas con las siguientes reglas especiales:
 
 - Un jugador que use esta combinación de armas puede atacar levantándose empuñando una única arma sin que se considere que no se agarra correctamente.
-- Un jugador que use esta combinación de armas sigue sin poder abandonar un arma a voluntad.
+- Un jugador que use esta combinación de armas sigue sin poder desprenderse de manera voluntaria de una de sus espadas para realizar un ataque ni abandonar un arma a voluntad.
 - Un jugador que use esta combinación de armas puede atacar con la otra espada si se desprende de una de manera involuntaria sin que se considere falta. Una vez finalizada esa acción, deberá proceder a recoger su arma.
 - Un jugador que use esta combinación de armas podrá pinear a un jugador con cada una de sus espadas.
 
-Hay que tener en cuenta que el jugador sigue sin poder desprenderse de manera voluntaria de una de sus espadas para realizar un atque.
 
 
 # CAPÍTULO 6: SANCIONES
@@ -606,7 +616,7 @@ Las situaciones en las que se puede dar un aviso son:
 La reiteración de estas acciones podrá acarrear una falta grave al jugador.
 
 ## 6.2 ASISTENCIA ARBITRAL
-Una asistencia arbitral es una intervención por parte de un árbitro sobre una acción que implica que el jugador debe arrodillarse y realizar una cuenta, pero por el tipo de acción no se considera una falta.
+Una asistencia arbitral es una intervención por parte de un árbitro sobre una acción que puede requerir de su aclaración y puede implicar que el jugador deba arrodillarse y realizar una cuenta, pero por el tipo de acción no se considera una falta.
 
 Normalmente este tipo de acciones generan confusión en el juego, por lo que el arbitro debe intervenir y asistir al jugador en la medida de lo posible. Si el jugador es consciente de cometer alguna de estas acciones puede actuar en consecuencia sin necesidad de la intervención del arbitro.
 
@@ -668,7 +678,7 @@ Las faltas leves se producen en los siguientes casos:
 
 - Cargas sobre un jugador. 
 - Realizar un pineo ilegal (doble, con el escudo o el kette, uso incorrecto del arma). 
-- Realizar tirones fuertes del arma o la cadena cuando están trabadas entre sí. El sancionado es aquel o aquellos que realizan los tirones. 
+- Realizar tirones fuertes del arma o del *kette* cuando están trabadas entre sí. El sancionado es aquel o aquellos que realizan los tirones. 
 - Golpear el *jugg* con el cuerpo (por ejemplo dar una patada) habiendo o no un arma entre el *jugg* y el cuerpo a excepción de las manos del corredor. 
 - Realizar placajes o agarres indebidos a otro corredor.
 - No respetar el intervalo después de un pineo. 
@@ -678,7 +688,8 @@ Las faltas leves se producen en los siguientes casos:
 - Romper el arma propia.
 - El uso de fuerza desmesurada, tanto en lucha de corredores como a la hora de realizar impactos con un arma.
 - Bloquear el orificio de la zona de marcaje. 
-- Mover el arma a un jugador arrodillado de manera negativa para el dueño y por acción que no sea un lance del juego.
+- Bloquear o mover el arma a un jugador arrodillado de manera negativa para el dueño y por acción que no sea un lance del juego.
+- Golpear de manera brusca con el cuerpo el arma de otro jugador.
 - Agarrar el arma de otro jugador con las manos u otra parte del cuerpo, excepto si se está destrabando un arma. 
 - Girar el *kette* si tiene un arma enrollada. 
 - El desplazamiento de una base de su posición original cuando esté anclada al suelo y ocurra como lance del juego. 
@@ -739,9 +750,9 @@ Las **faltas graves directas** se producen en los siguientes casos:
 - No marcar un punto cuando se está en clara disposición de poder hacerlo sin que un oponente lo pueda evitar (perder tiempo).
 - Abandonar la zona de equipo sin causa justificada.
 - No realizar el tiempo de penalización voluntariamente tras cometer una falta leve o recibir una asistencia arbitral o un impacto.
-- Intervenir en el juego de forma directa (acciones no verbales) durante el tiempo de penalización o de inactividad. Excepciones: ayudar a destrabar la cadena y sacar el *jugg* de la marca cuando el tanto no es válido.
+- Intervenir en el juego de forma directa (acciones no verbales) durante el tiempo de penalización o de inactividad. Excepciones: ayudar a destrabar el *kette* y sacar el *jugg* de la marca cuando el tanto no es válido.
 - Interferir en el desarrollo del partido de manera negativa por parte de un jugador que no participa en el punto.
-- Impedir voluntariamente el destrabe de la cadena una vez que se ha recibido un impacto válido.
+- Impedir voluntariamente el destrabe del *kette* una vez que se ha recibido un impacto válido.
 - No soltar el *kette* de su agarre de manera **inmediata** cuando se trabe a un jugador y se ponga en peligro su seguridad.
 - Abandonar un arma en el campo. 
 - Trato irrespetuoso a espectadores, equipo arbitral o jugadores.
@@ -856,6 +867,7 @@ El árbitro principal es el máximo responsable un partido. El árbitro principa
 - Avisar de las faltas sancionadas. 
 - Asegurar que el *jugg* está en la posición correcta al inicio de cada punto.
 - Hacer que el juego se lleve a cabo correctamente, comprobando los tiempos de penalización y los impactos.
+- Determinar _juego pasivo_ cuando sea necesario.
 
 ### 7.2.2 Secundario
 Su función esencial es la de prestar apoyo en todo momento al árbitro principal. Sus funciones son muy similares a las del árbitro principal. No obstante, es el árbitro principal el que tiene la última palabra en todas las decisiones. También deberá apoyarle al comienzo del punto.
