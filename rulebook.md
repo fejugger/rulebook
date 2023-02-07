@@ -21,9 +21,11 @@ Adicionalmente a este reglamento se detallan dos anexos. El primero sirve como a
 ## 1.1 ACOTACIÓN Y DIMENSIONES
 El campo de juego tiene la forma de un rectángulo con las esquinas recortadas. 
 
-Las líneas más cortas se llaman *líneas de base*. 
+Las líneas más cortas se llaman *líneas de base*. Cada equipo debe permanecer en su línea de base durante cada punto.
 
 Las líneas más largas se llaman *líneas de banda*. 
+
+Las líneas de banda y las líneas de base se unen mediante las *diagonales*.
 
 Las líneas delimitan la superficie de juego y no forman parte del campo.
 
@@ -199,9 +201,9 @@ En caso de que el tanto **NO** sea válido el punto continuará y un árbitro o 
 No está permitido obstruir el orificio de la zona de marcaje, ya sea con el cuerpo, con la mano o con el escudo.
 
 ### 4.1.4 Comenzar un punto
-na vez que los capitanes regresen a su zona de equipo, ya sea por haber presentado una reclamación o por haber participado en el punto, no podrán presentar reclamaciones al árbitro principal. El árbitro principal podrá indicar a los jugadores el intervalo y la puntuación antes de empezar un punto. Los árbitros principal y secundario darán comienzo al intervalo de preparación del punto **al grito de «¿Corredor listo?»** levantando el brazo derecho hacia el equipo a su derecha.
+Una vez que los capitanes regresen a su zona de base, ya sea por haber presentado una reclamación o por haber participado en el punto, no podrán presentar reclamaciones al árbitro principal. El árbitro principal podrá indicar a los jugadores el intervalo y la puntuación antes de empezar un punto. Los árbitros principal y secundario darán comienzo al intervalo de preparación del punto **al grito de «¿Corredor listo?»** levantando el brazo derecho hacia el equipo a su derecha.
 
-Con el fin de evitar la pérdida de tiempo por parte de los jugadores, el árbitro principal podrá iniciar este proceso cuando considere oportuno (hayan llegado los jugadores a sus zonas de equipo o no).
+Con el fin de evitar la pérdida de tiempo por parte de los jugadores, el árbitro principal podrá iniciar este proceso cuando considere oportuno (hayan llegado los jugadores a sus zonas de base o no).
 
 Esta preparación se realizará bajo la cuenta de intervalos del árbitro principal y que deberá seguir el árbitro secundario. Ambos árbitros deberán avisar al llegar a 5 y a 10 intervalos a ambos equipos. El intervalo de preparación finalizará en los siguientes casos:
 
@@ -212,10 +214,9 @@ Para indicar que un equipo se encuentra **preparado**, su corredor debe indicarl
 
 Cuando un corredor esté listo o termine la cuenta, el árbitro debe poner el brazo en horizontal orientado hacia el centro del campo para indicar que está listo. Cuando ambos árbitros estén listos, el árbitro principal gritará «¡3, 2, 1, jugger!». En el instante en el que termine de pronunciar la palabra «jugger», los árbitros han de bajar el brazo hasta la posición natural y se dará comienzo el punto, pudiendo entonces entrar en contacto con el campo.
 
-
 ### 4.1.5 Formación de la línea
 Al comienzo de cada punto cada equipo deberá elegir hasta 5 jugadores que entrarán en el campo para el desarrollo del punto. 
-Los jugadores tienen la obligación de entrar al campo cuando el árbitro de la salida. La entrada debe hacerse exclusivamente por la línea de fondo de su zona de equipo.
+Los jugadores tienen la obligación de entrar al campo cuando el árbitro de la salida. La entrada debe hacerse exclusivamente por la línea de fondo de su zona de base.
 
 Durante el partido cada equipo podrá realizar tantos cambios en esta formación como desee siempre que se realice antes de cada punto.
 
