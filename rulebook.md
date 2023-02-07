@@ -89,7 +89,7 @@ El resto de jugadores no pueden interactuar voluntariamente con su cuerpo con el
 Las armas deben de ser seguras. Para todas las armas rigen estas normas:
 
 - Las armas de los *pompfers* tienen que ser de sección redonda y, exceptuando las zonas de agarre, su diámetro debe ser superior a 6 cm e inferior a 15 cm.
-- Las armas rígidas han de tener el alma recta y que no flecte. 
+- Las armas rígidas han ser rectas y no pueden flectar. 
 - Las armas rígidas pueden tener anillos en las zonas de golpeo de hasta 2,5 cm de radio de relieve, sin exceder en ningún caso los 15 cm de diámetro totales. Estos anillos no pueden situarse en la mitad más cercana al agarre de la zona de golpeo, a excepción de los anillos especiales que generan el escalón del agarre del Q-tip.
 - Las medidas de las armas son máximas estando permitido llevar un arma más corta.
 - Las armas no deben exponer sus materiales y deben estar cubiertas por algún tipo de material.
