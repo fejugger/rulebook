@@ -89,7 +89,8 @@ El resto de jugadores no pueden interactuar voluntariamente con su cuerpo con el
 Las armas deben de ser seguras. Para todas las armas rigen estas normas:
 
 - Las armas de los *pompfers* tienen que ser de sección redonda y, exceptuando las zonas de agarre, su diámetro debe ser superior a 6 cm e inferior a 15 cm.
-- Las armas rígidas han de tener el alma recta y que no flecte. 
+- Las armas rígidas han de tener el alma recta y que no flecte.
+- Las armas no pueden tener anillos.
 - Las medidas de las armas son máximas estando permitido llevar un arma más corta.
 - Las armas no deben exponer sus materiales y deben estar cubiertas por algún tipo de material.
 - Los pomos de las armas  son considerados zonas de agarre válidas y deben estar **mínimamente acolchados** siendo obligatorio únicamente cubrir la base. 
