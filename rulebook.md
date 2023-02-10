@@ -137,7 +137,7 @@ Es un arma a dos manos.
 ### 3.2.4 Espada corta
 ![Espada Corta - Imagen 10](https://fejugger.es/images/doc/reglamento/imagen10.png)
 
-La espada corta tiene unas dimensiones máximas de 85 cm. La zona de golpeo puede medir hast 65 cm. La zona de agarre hasta 25 cm. La combinación nunca puede superar la longitug máxima definda.
+La espada corta tiene unas dimensiones máximas de 85 cm. La zona de golpeo puede medir hasta 65 cm. La zona de agarre hasta 25 cm. La combinación nunca puede superar la longitud máxima definida.
 
 Es un arma a una mano y puede agarrarse desde cualquier parte de su zona de agarre. Puede combinarse con otra espada corta o con un escudo en la otra mano.
 
