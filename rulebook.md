@@ -21,7 +21,7 @@ Adicionalmente a este reglamento se detallan dos anexos. El primero sirve como a
 ## 1.1 ACOTACIÓN Y DIMENSIONES
 El campo de juego tiene la forma de un rectángulo con las esquinas recortadas. 
 
-Las líneas más cortas se llaman *líneas de base*. Cada equipo debe permanecer en su línea de base durante cada punto.
+Las líneas más cortas se llaman *líneas de base*. Los equipos deben permanecer en su línea de base al inicio de cada punto.
 
 Las líneas más largas se llaman *líneas de banda*. 
 
@@ -153,7 +153,7 @@ El escudo debe ser redondo y tener un diámetro de 60 cm y un grosor de hasta 25
 
 El *kette* tiene unas dimensiones máximas de 320 cm. El *kette* está formado por una bola de entre 55 cm y 77 cm de perímetro (18-22 cm de diámetro) y un conjunto de enlace y agarre de longitud variable. En niungún caso la longitud total puede superar la medida máxima definida.
 
-La bola debe ser una esfera de material blando que **NO** puede estar cubierta en su totalidad con cinta. 
+La bola debe ser una esfera de material blando que **NO** puede estar cubierta en su totalidad con cinta. Las medidas de la bola no pueden variar del rango definido. Es decir, la bola no se beneficia de la regla de que las medidas son máximas.
 
 La bola no puede unirse al enlace con materiales metálicos o rígidos. El conjunto de enlace y agarre no podrá contener ningún elemento metálico. 
 
@@ -251,9 +251,9 @@ Se entiende como consecuencia directa aquella acción que al resolverse implica 
 #### Juego Pasivo
 Si por las características del encuentro el partido no acabara de una manera autónoma (finalize el tiempo de ronda, finalicen los intervalos, etc...) y un punto se viera estancado en una situación del juego que ningún equipo tuviera interés en resolver, el árbitro deberá determinar _juego pasivo_ y comezar un nuevo punto.
 
-Para poder determinar _juego pasivo_ el árbitro debe identificar que la situación está bloqueada, en ese momento procederá a notificar a los qwikers de ambos equipos que ha identificado un posible _juego pasivo_. Si ambos equipos continuan sin desbloquear la situación. El arbitro principal dentendrá el juego y se iniciará un nuevo punto.
+Para poder determinar _juego pasivo_ el árbitro debe identificar que la situación está bloqueada, en ese momento procederá a notificar a los *qwikers* de ambos equipos que ha identificado un posible _juego pasivo_. Si ambos equipos continuan sin desbloquear la situación. El arbitro principal dentendrá el juego y se iniciará un nuevo punto.
 
-Hay que tener en cuenta que el _juego pasivo_ genera un punto nuevo, es decir, no se trata  de una repetición del punto anterior, por lo que las sanciones que se cumplieron al inicio del punto que se bloqueó se considerarán cumplicadas. Sí se deberán cumplir las sanciones que se cometieron durante el punto que acabó como _juego pasivo_.
+Hay que tener en cuenta que el _juego pasivo_ genera un punto nuevo, es decir, no se trata de una repetición del punto anterior, por lo que las sanciones que se cumplieron al inicio del punto que se bloqueó se considerarán cumplicadas. Sí se deberán cumplir las sanciones que se cometieron durante el punto que acabó como _juego pasivo_.
 
 Los casos más típicos en los que se puede dar _juego pasivo_ es en los partidos a sets o en el jugg de oro.
 
@@ -269,7 +269,7 @@ El ganador de un partido es el primer equipo que cumple las condiciones de victo
 ### 4.3.1 Modelo de Intervalos
 Se juegan dos partes iguales con un número determinado de intervalos. Gana el equipo que más tantos ha logrado al finalizar la última parte. Entre cada parte hay una pausa de descanso y cada equipo cambia de lado del campo. Durante los últimos diez intervalos de cada parte un miembro del equipo arbitral deberá realizar una cuenta atrás gritando el número de intervalos que quedan.
 
-El número de intervalos definidos puede variar desde partidos menos exigentes de 80 intervalos por parte a partidos de 200 intervales por parte. Aunque otra combinación sería igualmente válida.
+El número de intervalos definidos puede variar desde partidos menos exigentes de 80 intervalos por parte, a partidos de 200 intervales por parte. Aunque otra combinación sería igualmente válida.
 
 Para poder disputar un punto en este modelo deberán quedar 4 o más intervalos de tiempo. De no ser así, el punto no se disputará y las faltas que se tuvieran que sancionar se harán en el siguiente punto.
 
@@ -316,7 +316,7 @@ Un impacto realizado por un *kette* genera una penalización de 8 intervalos. El
 - Golpea con la bola con las condiciones generales anteriormente descritas. 
 - Enrolla con el *kette* (realizando una O) al menos una zona de impacto válida de un jugador.
 
-No se considerarán impactos los golpes que se realicen mientras el *kette* se encuentre enrollada en un arma u otro jugador (realizando un círculo completo) o los que se produzcan estando la bola detenida. Tampoco serán válidos los impactos que se realicen con la bola con un movimiento directamente producido por darle una patada a la misma (un golpe con el pie, la rodilla o la pierna).
+No se considerarán impactos los golpes que se realicen mientras el *kette* se encuentre enrollada en un arma u otro jugador (realizando un círculo completo) o los que se produzcan estando la bola detenida. Tampoco serán válidos los impactos que se realicen con la bola con un movimiento producido directamente con el tren inferior del jugador (una patada, un golpe con el pie, la rodilla o la pierna, etc).
 
 Todos los impactos múltiples del *kette* serán válidos siempre que ésta mantenga el movimiento, independientemente de si ha impactado a otro jugador, un arma o el suelo.
 
@@ -496,7 +496,7 @@ Se considera *hand off* un desplazamiento empleando el brazo o la mano para evit
 ## 5.9 DENTRO Y FUERA DEL CAMPO
 Se considerará que un jugador está fuera si con alguna parte de su cuerpo toca la línea que delimita el campo o más allá. Salirse del campo se considera una asistencia arbitral que el jugador deberá cumplir al regresar al campo, con las siguientes consideraciones:
 
-- Si un jugador sale del campo por acción de otro jugador que ya está fuera, no se considerará que ha salido.
+- Si un jugador sale del campo por acción de otro jugador que ya está fuera o inactivo, no se considerará que ha salido.
 - Un jugador impactado no puede salirse del campo y un jugador fuera del campo no puede ser impactado. Por lo tanto, estas acciones no acumularán tiempo de penalización.
 - Las líneas del campo no se consideran parte del campo por lo que tocarlas implica estar fuera. Sí podrá sobresalir del campo alguna parte del cuerpo siempre y cuando no esté en contacto con la línea o con el suelo.
 - Está permitido apoyar o tocar fuera del campo con un arma.
@@ -513,7 +513,7 @@ Es obligatorio indicar a un oponente que siga jugando cuando nos ha golpeado pri
 ## 5.11 AGARRE INDEBIDO DEL ARMA
 Un golpe agarrando de forma indebida el arma, no solo no produce un impacto válido, sino que está considerado falta, por lo que se deberá avisar al contrario y autoarbitrar la falta leve en el momento.
 
-Esta norma también aplica a un escudo. Si este no se agarra de manera correcta, los impactos que realice ese jugador no serán validos.
+Esta norma también aplica a un escudo. Si este no se agarra de manera correcta, los impactos que realice ese jugador no serán válidos.
 
 ## 5.12 FONDOS CON EL STAB
 Se entiende por fondeo todo aquel ataque que se realiza clavando la punta y moviendo el *stab* de atrás hacia adelante.
@@ -525,8 +525,8 @@ Sí serán considerados válidos todos los impactos que se realicen con la punta
 ## 5.13 INTERACTUAR CON LAS BASES
 Un corredor puede defender en la base siempre y cuando no obstruya el orificio de la misma y no la desplace deliberadamente. Se considerará que obstruye este orificio siempre que con alguna parte del cuerpo no permita que se pueda introducir el jugg en el mismo.
 
-Si durante un forcejeo se desplazara la base se intentará colocar de manera que no influya en la disputa ni en el resultado del punto.
-Si esto resultara imposible, el árbitro procederá a resolver la acción de la mejor manera posible:
+Si durante un forcejeo se desplazara la base, se intentará colocar de manera que no influya ni en la disputa ni en el resultado del punto.
+Si esto resultara imposible, el árbitro procederá a resolver la acción de la manera más adecuada posible:
 - Si el corredor atacante pudiera transformar un tanto de manera clara, es decir sin oportunidad de que otro jugador lo evite, pero esto fuera imposible por no encontrarse la base en su lugar, el árbitro concederá el punto sin necesidad de colocar la base.
 - Interrumpirá el punto para colocar la base y reaunadará cuando estime oportuno.
 
@@ -638,7 +638,7 @@ No respetar esta penalización conllevará una falta grave indirecta (_Incumplir
 Más detalle en [5.9 dentro y fuera del campo](#59-dentro-y-fuera-del-campo).
 
 ### Entrar antes de tiempo
-Se considera que un jugador entra antes al campo si entrar en contacto con el campo antes de que el árbitro principal grite «¡Jugger!» al comienzo de un punto.
+Se considera que un jugador entra antes al campo si entra en contacto con el campo antes de que el árbitro principal grite «¡Jugger!» al comienzo de un punto.
 En caso de que esto ocurra, el jugador deberá detenerse lo suficiente para no sacar ventaja de la acción y no deberá realizar ningún tipo de penalización.
 Si a pesar de la asistencia arbitral el jugador persiste y obtiene ventaja, entonces será sancionado con falta grave directa.
 
@@ -655,7 +655,7 @@ En caso de que un jugador lance el jugg después de haber sido impactado, este d
 No respetar esta penalización conllevará una falta grave indirecta (_Incumplir el tiempo de penalización_).
 
 ### Golpe en la ropa
-En caso de que un jugador recibe un golpe (generalmente en la ropa) el cual el árbitro está seguro que por las circustancias del juego el arbitro no ha podido notar, este deberá añadir una penalización de 5 intervalos (8 en el caso de un impacto de *kette*).
+En caso de que un jugador reciba un golpe (generalmente en la ropa) el cual el árbitro está seguro que por las circustancias del juego el jugador no ha podido notar, este deberá añadir una penalización de 5 intervalos (8 en el caso de un impacto de *kette*).
 
 No respetar esta penalización conllevará una falta grave indirecta (_Incumplir el tiempo de penalización_).
 
@@ -707,7 +707,7 @@ El **NO** cumplimiento de la sanción correspondiente a una falta leve conllevar
 La reiteración de faltas leves no implica ningún otro tipo de sanción.
 
 ### 6.3.3 Faltas graves
-Las faltas graves son aquellas acciones voluntarias, antideportivas y/o que implican un comportamiento malicioso y que pueden incidir en un cambio en el resultado de un punto. Las faltas deben tener impacto en el juego, es decir sacar ventaja eo influir, además deben ir en contra el spiritu de la norma. También se castigarán aquellas acciones que, aun cometiéndose sin mala fe, se realicen de forma temeraria o negligente.
+Las faltas graves son aquellas acciones voluntarias, antideportivas y/o que implican un comportamiento malicioso y que pueden incidir en un cambio en el resultado de un punto. Las faltas deben tener impacto en el juego, es decir sacar ventaja o influir, además deben ir en contra el spiritu de la norma. También se castigarán aquellas acciones que, aun cometiéndose sin mala fe, se realicen de forma temeraria o negligente.
 
 Si se detecta que un jugador ha realizado alguna acción que pudiera ser sancionada con una falta leve o con un aviso de manera voluntaria con ánimo de sacar ventaja de la situación, esta se sancionará siempre con una falta grave.
 
