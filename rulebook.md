@@ -321,9 +321,9 @@ Todos los impactos múltiples del *kette* serán válidos siempre que ésta mant
 
 Un jugador activo puede enrollar y sujetar la cadena con sus armas sin consecuencias.
 
-En cualquier caso, si un cadenero es impactado, se deberá proceder a destrabar las armas. Si el *pompfer* es impactado, este deberá facilitar al cadenero el destrabe del *kette* sin soltar su arma y no podrá iniciar su cuenta hasta que el destrabe haya finalizado.
+En cualquier caso, si el *kette* está trabado y uno de los dos jugadores involucrados es impactado, se deberá proceder a destrabar las armas. Si el *pompfer* es impactado, este deberá facilitar al cadenero el destrabe del *kette* sin soltar su arma y no podrá iniciar su cuenta hasta que el destrabe haya finalizado.
 
-Se considerará que el *pompfer* facilita el destrabe cuando ofrece el arma o la extremidad al cadenero de forma que la parte trabada le quede lo más cerca y lo más despejada posible sin estar en contacto con el suelo, pudiendo incluso cederle el arma para que pueda destrabar más fácilmente. El cadenero está obligado a devolver el arma una vez destrabe
+Se considerará que el *pompfer* facilita el destrabe cuando ofrece el arma o la extremidad al cadenero de forma que la parte trabada le quede lo más cerca y lo más despejada posible sin estar en contacto con el suelo, pudiendo incluso cederle el arma para que pueda destrabar más fácilmente. El cadenero está obligado a devolver el arma una vez destrabe.
 
 Lo mismo se aplica al caso de cadenero impactado y *pompfer* activo. El cadenero ha de ofrecer su arma para que el *pompfer* destrabe de la forma más cómoda posible, incluso llegando a soltar el *kette*, que deberá serle devuelto. De igual manera, el cadenero no podrá iniciar su cuenta hasta que el destrabe haya finalizado.
 
