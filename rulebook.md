@@ -302,7 +302,7 @@ Un impacto válido hace que el jugador tenga que arrodillarse y realizar una cue
 No está permitido atacar con el arma agarrada incorrectamente. Se considerará que el arma no se agarra correctmanete si:
 - Con un arma a dos manos no se agarra con dos manos.
 - Con una combinación de dos armas sólo se sujeta uno de los elementos.
-- Con una combinación que involucre un escudo, este no se agarra correctamente, es decir, no se sujeta desde el agarrre del escudo.
+- Con una combinación que involucre un escudo, este no se agarra correctamente, es decir, no se sujeta desde el agarre del escudo.
 
 Los golpes realizados bajo esta condición se considerarán falta y no producirán impactos válidos.
 
