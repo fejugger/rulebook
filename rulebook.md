@@ -153,7 +153,7 @@ El *kette* tiene unas dimensiones máximas de 320 cm. El *kette* está formado p
 
 La bola debe ser una esfera de material blando que **NO** puede estar cubierta en su totalidad con cinta. 
 
-La bola no puede unirse al enlace con materiales metálicos o rígidos. El conjunto de enlace y agarre no podrá contener ningún elemento metálico ni rígido o duro. 
+El conjunto de enlace y agarre no podrá contener ningún elemento metálico ni rígido o duro. Al mismo tiempo, la bola no puede unirse al enlace con materiales metálicos ni rígidos.
 
 El enlace debe tener al menos 2 cm en una de sus dimensiones, no puede ser de sección cilíndrica ni exponer materiales abrasivos en su capa exterior.
 
