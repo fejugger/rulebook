@@ -90,11 +90,14 @@ Las armas deben de ser seguras. Para todas las armas rigen estas normas:
 
 - Las armas de los *pompfers* tienen que ser de sección redonda y, exceptuando las zonas de agarre, su diámetro debe ser superior a 6 cm e inferior a 15 cm.
 - Las armas rígidas han ser rectas y no pueden flectar. 
-- Las armas no pueden tener anillos a excepción de los refuerzo especiales que generan el escalón del agarre del Q-tip.
+- Las armas no pueden tener **anillos** en la zona de golpeo, a excepción de los refuerzo especiales que generan el escalón del agarre del Q-tip.
 - Las medidas de las armas son máximas estando permitido llevar un arma más corta.
 - Las armas no deben exponer sus materiales y deben estar cubiertas por algún tipo de material.
 - Los pomos de las armas  son considerados zonas de agarre válidas y deben estar **mínimamente acolchados** siendo obligatorio únicamente cubrir la base. 
 -  Las armas deben ser lo suficientemente seguras como para no causar daños al impactar.
+
+Se considera un **anillo** a una ampliación en el relieve del acolchado que se situa de la zona de golpeo de un arma.
+No serán considerados anillos los refuerzos necesarios para hacer que la punta sea segura, siempre y cuando estos no generen una diferencia en el radio del arma de más de 2.5 cm ni superen los 15 cm de diametro totales permitidos.
 
 Se considera **mínimamente acolchado** cuando, al aplicar una leve presión sobre el material, este cede parcialmente. Asimismo, debe llevar una capa externa de recubrimiento. El acolchado deberá ser fijo y no desplazarse.
 
