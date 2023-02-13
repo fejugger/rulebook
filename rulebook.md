@@ -73,8 +73,9 @@ Es el portavoz con respecto al equipo arbitral, y por lo tanto el que debe dirig
 Antes del comienzo del partido, este deberá identificarse en el acta en la casilla correspondiente como capitán.
 
 ## 2.6 ZONA DE EQUIPO
-Durante el transcurso de un punto, los jugadores que no formen parte de la línea solo podrán permanecer en la zona de su equipo.  La zona de equipo (resaltada en verde en la imagen) equivale a la superficie exterior al campo desde la línea de centro hasta detrás de la línea de base que le corresponde a su equipo. Estos jugadores no podrán interferir en el desarrollo del partido ni dirigirse al equipo rival ni al equipo arbitral.
+Durante el transcurso de un punto, los jugadores que no formen parte de la línea solo podrán permanecer en la zona de su equipo.  La zona de equipo (resaltada en verde en la imagen) equivale a la superficie exterior al campo desde el inicio de la la línea de banda hasta detrás de la línea de base que le corresponde a su equipo. Estos jugadores no podrán interferir en el desarrollo del partido ni dirigirse al equipo rival ni al equipo arbitral.
  ![Zona de equipo - Imagen 3](./images/rulebook/imagen3.png)
+
 
 # CAPÍTULO 3: EQUIPAMIENTO
 
