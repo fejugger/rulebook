@@ -27,7 +27,7 @@ Las líneas más largas se llaman *líneas de banda*.
 
 Las líneas delimitan la superficie de juego y no forman parte del campo.
 
-![Campo de Jugger - Imagen 1](https://fejugger.es/images/doc/reglamento/imagen1.png)
+![Campo de Jugger - Imagen 1](./images/rulebook/imagen1.png)
 
 ## 1.2 EL CENTRO
 En el centro del terreno de juego debe haber una marca bien señalizada donde se debe situar el *jugg* al comienzo de cada punto.
@@ -37,7 +37,7 @@ La base es una pieza con un orificio en el centro en la que hay que colocar el *
 
 Tienen 50 cm de diámetro aproximadamente, un agujero en el centro de unos 12 cm de diámetro y altura suficiente para que encaje el *jugg*. La zona de marcaje tiene que ser también blanda para evitar daños a los jugadores. Pueden estar parcialmente ancladas al suelo para evitar que los pequeños golpes las desplacen.
 
-![Base - Imagen 2](https://fejugger.es/images/doc/reglamento/imagen2.png)
+![Base - Imagen 2](./images/rulebook/imagen2.png)
 
 # CAPÍTULO 2: LOS JUGADORES
 
@@ -71,15 +71,16 @@ Es el portavoz con respecto al equipo arbitral, y por lo tanto el que debe dirig
 Antes del comienzo del partido, este deberá identificarse en el acta en la casilla correspondiente como capitán.
 
 ## 2.6 ZONA DE EQUIPO
-Durante el transcurso de un punto, los jugadores que no formen parte de la línea solo podrán permanecer en la zona de su equipo.  La zona de equipo (resaltada en verde en la imagen) equivale a la superficie exterior al campo desde la línea de centro hasta detrás de la línea de base que le corresponde a su equipo. Estos jugadores no podrán interferir en el desarrollo del partido ni dirigirse al equipo rival ni al equipo arbitral.
- ![Zona de equipo - Imagen 3](https://fejugger.es/images/doc/reglamento/imagen3.png)
+Durante el transcurso de un punto, los jugadores que no formen parte de la línea solo podrán permanecer en la zona de su equipo.  La zona de equipo (resaltada en verde en la imagen) equivale a la superficie exterior al campo desde el inicio de la la línea de banda hasta detrás de la línea de base que le corresponde a su equipo. Estos jugadores no podrán interferir en el desarrollo del partido ni dirigirse al equipo rival ni al equipo arbitral.
+ ![Zona de equipo - Imagen 3](./images/rulebook/imagen3.png)
+
 
 # CAPÍTULO 3: EQUIPAMIENTO
 
 ## 3.1 JUGG
 El *jugg* es el objeto que el corredor ha de situar en la zona de marcaje para conseguir un tanto. Ha de medir entre 28 y 30 cm de largo y tener un extremo sensiblemente más estrecho que el otro, con diámetros de entre 12 y 15 cm en su lado ancho y entre 8 y 10 en su lado estrecho. Los *juggs* deben ser blandos, seguros y no podrán tener un alma rígida en su interior.
 
-![Jugg - Imagen 4](https://fejugger.es/images/doc/reglamento/imagen4.png)
+![Jugg - Imagen 4](./images/rulebook/imagen4.png)
 
 El corredor es el único jugador que puede coger, llevar y lanzar el *jugg* para así conseguir tantos para su equipo. El corredor no puede lanzar el *jugg* contra sus rivales, ni tiene permitido darle patadas. Los corredores sí podrán frenar el *jugg* usando el cuerpo.
 
@@ -89,12 +90,15 @@ El resto de jugadores no pueden interactuar voluntariamente con su cuerpo con el
 Las armas deben de ser seguras. Para todas las armas rigen estas normas:
 
 - Las armas de los *pompfers* tienen que ser de sección redonda y, exceptuando las zonas de agarre, su diámetro debe ser superior a 6 cm e inferior a 15 cm.
-- Las armas rígidas han de tener el alma recta y que no flecte. 
-- Las armas rígidas pueden tener anillos en las zonas de golpeo de hasta 2,5 cm de radio de relieve, sin exceder en ningún caso los 15 cm de diámetro totales. Estos anillos no pueden situarse en la mitad más cercana al agarre de la zona de golpeo, a excepción de los anillos especiales que generan el escalón del agarre del Q-tip.
+- Las armas rígidas han ser rectas y no pueden flectar. 
+- Las armas no pueden tener **anillos** en la zona de golpeo, a excepción de los refuerzo especiales que generan el escalón del agarre del Q-tip.
 - Las medidas de las armas son máximas estando permitido llevar un arma más corta.
 - Las armas no deben exponer sus materiales y deben estar cubiertas por algún tipo de material.
 - Los pomos de las armas  son considerados zonas de agarre válidas y deben estar **mínimamente acolchados** siendo obligatorio únicamente cubrir la base. 
 -  Las armas deben ser lo suficientemente seguras como para no causar daños al impactar.
+
+Se considera un **anillo** a una ampliación en el relieve del acolchado que se situa de la zona de golpeo de un arma.
+No serán considerados anillos los refuerzos necesarios para hacer que la punta sea segura, siempre y cuando estos no generen una diferencia en el radio del arma de más de 2.5 cm ni superen los 15 cm de diametro totales permitidos.
 
 Se considera **mínimamente acolchado** cuando, al aplicar una leve presión sobre el material, este cede parcialmente. Asimismo, debe llevar una capa externa de recubrimiento. El acolchado deberá ser fijo y no desplazarse.
 
@@ -105,59 +109,59 @@ Las **zonas de golpeo** de las armas deben cumplir lo siguiente:
 - Todos los bordes deben ser redondeados y no deben presentar aristas. 
 - Las zonas de golpeo no deben producir arañazos al resto de jugadores. 
 - Las zonas de golpeo deben medir **al menos 40 cm** de longitud. 
-- Debe existir una diferencia de al menos 4 cm de diámetro en la unión entre las zonas de acolchado y las de agarre de algunas armas. Esta diferencia puede generarse con el propio acolchado o con un anillo de al menos 4 cm de longitud siempre que se mantenga el mínimo de 6 cm de diámetro. Se resaltan en los dibujos de cada arma las zonas en las que tiene que existir dicha diferencia
+- Debe existir una diferencia de al menos 2 cm de diámetro en la unión entre las zonas de acolchado y las de agarre de algunas armas. Esta diferencia puede generarse con el propio acolchado o con un refeurzo de al menos 4 cm de longitud siempre que se mantenga el mínimo de 6 cm de diámetro. Se resaltan en los dibujos de cada arma las zonas en las que tiene que existir dicha diferencia
 
-![Escalón - Imagen 5](https://fejugger.es/images/doc/reglamento/imagen5.png)
+![Escalón - Imagen 5](./images/rulebook/imagen5.png)
 
 Las **puntas** deben cumplir lo siguiente: 
 - La punta del arma no puede tener alma y debe estar realizada solo con acolchado o material blando.
 - La punta del arma debe ser suficientemente resistente para no romperse al fondear con ella.
 
-![Punta - Imagen 6](https://fejugger.es/images/doc/reglamento/imagen6.png)
+![Punta - Imagen 6](./images/rulebook/imagen6.png)
 
 ### 3.2.1 Q-tip
-![Q-tip - Imagen 7](https://fejugger.es/images/doc/reglamento/imagen7.png)
+![Q-tip - Imagen 7](./images/rulebook/imagen7.png)
 
 El *Q-tip* tiene unas dimensiones máximas de 200 cm. Tiene una zona de agarre central que debe estar **mínimamente acolchada** y dos zonas de golpeo situadas a los extremos de hasta 60 cm. Es un arma a dos manos, pudiéndose situar cada una en cualquier parte de la zona de agarre. 
 
 ### 3.2.2 Bastón o stab
-![Stab - Imagen 8](https://fejugger.es/images/doc/reglamento/imagen8.png)
+![Stab - Imagen 8](./images/rulebook/imagen8.png)
 
 El *stab* tiene unas dimensiones máximas de 180 cm. La zona de impacto está situada en un extremo y mide 90 cm. La zona entre los dos agarres no se considera zona de golpeo válido, aunque debe estar acolchada y tener un mínimo de 4 cm de diámetro.
 
 Es un arma a dos manos con dos zonas de agarre separadas y solo produce impactos válidos cuando se usan ambos agarres simultáneamente. No está permitido fondear o estocar con el *stab*.
 
 ### 3.2.3 Mandoble
-![Mandoble - Imagen 9](https://fejugger.es/images/doc/reglamento/imagen9.png)
+![Mandoble - Imagen 9](./images/rulebook/imagen9.png)
 
 El mandoble tiene unas dimensiones máximas de 140 cm. La zona de golpeo mide 100 cm y la zona de agarre mide 40 cm. 
 
 Es un arma a dos manos.
 
 ### 3.2.4 Espada corta
-![Espada Corta - Imagen 10](https://fejugger.es/images/doc/reglamento/imagen10.png)
+![Espada Corta - Imagen 10](./images/rulebook/imagen10.png)
 
-La espada corta tiene unas dimensiones de 85 cm. La zona de golpeo mide 65 cm. La zona de agarre mide 20 cm. 
+La espada corta tiene unas dimensiones máximas de 85 cm. La zona de golpeo mide entre 60 y 65 cm. La zona de agarre mide entre 20 y 25 cm.
 
 Es un arma a una mano y puede agarrarse desde cualquier parte de su zona de agarre. Puede combinarse con otra espada corta o con un escudo en la otra mano.
 
 ### 3.2.5 Escudo
-![Escudo - Imagen 11](https://fejugger.es/images/doc/reglamento/imagen11.png)
+![Escudo - Imagen 11](./images/rulebook/imagen11.png)
 
-El escudo debe ser redondo y tener un diámetro de 60 cm y un grosor de hasta 25 cm (sin incluir el agarre). Se usa con una sola mano y es considerado un arma no ofensiva por lo que **NO** está permitido atacar con el escudo. Debe tener el borde y el frontal siempre acolchados. El escudo debe sujetarse desde el agarre.
+El escudo debe ser redondo y tener un diámetro de 60 cm y un grosor de hasta 25 cm (sin incluir el agarre). Ambas caras del escudo deben ser solidas, planas y rectas (sin contar los agarres y correas y sus fijaciones). El centro del escudo puede tener una cazoleta de hasta 25 cm de diametro para el agarre. El grosor de la cazoleta y el del escudo no pueden superar el grosor máximo definido. El escudo debe sujetarse desde el agarre y puede fijarse al brazo mediante correas.
+
+Se usa con una sola mano y es considerado un arma no ofensiva por lo que **NO** está permitido atacar con el escudo. Debe tener el borde y el frontal siempre acolchados. 
 
 ### 3.2.6 Kette
-![Kette - Imagen 12](https://fejugger.es/images/doc/reglamento/imagen12.png)
+![Kette - Imagen 12](./images/rulebook/imagen12.png)
 
 El *kette* tiene unas dimensiones máximas de 320 cm. El *kette* está formado por una bola de entre 55 cm y 77 cm de perímetro (18-22 cm de diámetro) y un conjunto de enlace y agarre de longitud variable. En niungún caso la longitud total puede superar la medida máxima definida.
 
 La bola debe ser una esfera de material blando que **NO** puede estar cubierta en su totalidad con cinta. 
 
-La bola no puede unirse al enlace con materiales metálicos o rígidos. El conjunto de enlace y agarre no podrá contener ningún elemento metálico. 
+La bola no puede unirse al enlace con materiales metálicos o rígidos. El conjunto de enlace y agarre no podrá contener ningún elemento metálico ni rígido o duro. 
 
-Si el material del enlace es rígido y duro, el metro más cercano a la bola debe estar acolchado, con protecciones que deben estar fijadas total o parcialmente, de manera que sea imposible hacer una separación de más de 3 cm entre cada una de ellas. La protección más lejana a la bola sí deberá estar fijada de manera total. El enlace en esta parte debe tener al menos 2 cm en una de sus dimensiones y no puede exponer materiales abrasivos en su capa exterior.
-
-Fuera del metro más cercano a la bola, el enlace debe tener al menos 2 cm en una de sus dimensiones, no puede ser de sección cilíndrica ni exponer materiales abrasivos en su capa exterior.
+El enlace debe tener al menos 2 cm en una de sus dimensiones, no puede ser de sección cilíndrica ni exponer materiales abrasivos en su capa exterior.
 
 El agarre del *kette* deberá poder desprenderse con facilidad del jugador para evitar posibles tirones que pongan en peligro a los jugadores. Todo el conjunto de enlace y bola es considerado una única zona de agarre válida. El kette puede realizar impactos válidos siempre que se sujete con al menos una mano.
 
@@ -300,7 +304,6 @@ Un impacto válido hace que el jugador tenga que arrodillarse y realizar una cue
 
 No está permitido atacar con el arma agarrada incorrectamente. Se considerará que el arma no se agarra correctmanete si:
 - Con un arma a dos manos no se agarra con dos manos.
-- Con una combinación de dos armas sólo se sujeta uno de los elementos.
 - Con una combinación que involucre un escudo, este no se agarra correctamente, es decir, no se sujeta desde el agarrre del escudo.
 
 Los golpes realizados bajo esta condición se considerarán falta y no producirán impactos válidos.
@@ -319,11 +322,13 @@ No se considerarán impactos los golpes que se realicen mientras el *kette* se e
 
 Todos los impactos múltiples del *kette* serán válidos siempre que ésta mantenga el movimiento, independientemente de si ha impactado a otro jugador, un arma o el suelo.
 
-Un jugador activo puede enrollar y sujetar el *kette* con sus armas sin consecuencias. En cualquier caso, si un cadenero es impactado, se deberá proceder a destrabar las armas. Si el *pompfer* es impactado, este deberá facilitar al cadenero el destrabe del *kette* sin soltar su arma.
+Un jugador activo puede enrollar y sujetar la cadena con sus armas sin consecuencias.
+
+En cualquier caso, si un cadenero es impactado, se deberá proceder a destrabar las armas. Si el *pompfer* es impactado, este deberá facilitar al cadenero el destrabe del *kette* sin soltar su arma y no podrá iniciar su cuenta hasta que el destrabe haya finalizado.
 
 Se considerará que el *pompfer* facilita el destrabe cuando ofrece el arma o la extremidad al cadenero de forma que la parte trabada le quede lo más cerca y lo más despejada posible sin estar en contacto con el suelo, pudiendo incluso cederle el arma para que pueda destrabar más fácilmente. El cadenero está obligado a devolver el arma una vez destrabe
 
-Lo mismo se aplica al caso de cadenero impactado y *pompfer* activo. El cadenero ha de ofrecer su arma para que el *pompfer* destrabe de la forma más cómoda posible, incluso llegando a soltar el *kette*, que deberá serle devuelto. 
+Lo mismo se aplica al caso de cadenero impactado y *pompfer* activo. El cadenero ha de ofrecer su arma para que el *pompfer* destrabe de la forma más cómoda posible, incluso llegando a soltar el *kette*, que deberá serle devuelto. De igual manera, el cadenero no podrá iniciar su cuenta hasta que el destrabe haya finalizado.
 
 El *kette* no puede girar si tiene un arma enrollada, además de que ningún jugador podrá destrabar las armas con tirones, especialmente si el *kette* se encuentra trabado en el cuerpo de una persona.
 
@@ -343,7 +348,7 @@ El cuello y la cabeza no son zonas de impacto válidas. El cuello **NO** engloba
 
 Si un golpe primero hace contacto en la cabeza o en el cuello y luego en una zona de impacto no será considerado válido. Si por el contrario empieza en una zona de impacto y termina en la cabeza o en el cuello, este sí será considerado como impacto válido. Si estos impactos se producen en dos golpes, será considerado como válido siempre que el golpe en la cabeza no genere daño o suponga un aturdimiento evidente.
 
-![Cabeza - Imagen 13](https://fejugger.es/images/doc/reglamento/imagen13.png)
+![Cabeza - Imagen 13](./images/rulebook/imagen13.png)
 
 Si un impacto golpea de manera simultánea una zona de impacto no válida (como el cuello o la cabeza) y una zona de impacto válida, se considerará impacto válido. En caso de duda siempre será el árbitro el que decida.
 
@@ -359,7 +364,7 @@ Se considerará que la mano sí es una zona de impacto válida cuando:
 - Cuando se juega como cadenero o corredor. 
 
 Además, si el corredor porta el *jugg*, este también es zona de impacto válida para él.
-![Mano - Imagen 14](https://fejugger.es/images/doc/reglamento/imagen14.png)
+![Mano - Imagen 14](./images/rulebook/imagen14.png)
 
 ## 5.3 DOBLES
 Si un jugador realiza un impacto mientras es impactado **al mismo tiempo** por otro jugador se considera un impacto doble y todos los jugadores impactados deberán realizar su cuenta de penalización.
@@ -372,6 +377,7 @@ Según el sistema de juego al mismo tiempo se refiere a que los impactos han de 
 ## 5.4 ARRODILLARSE
 Arrodillarse es la acción que tiene que llevar a cabo un jugador que ha recibido un impacto válido y/o una falta y que consiste en poner como mínimo una rodilla en el suelo hasta que pase el tiempo de penalización. Durante este tiempo el jugador debe cumplir las siguientes normas:
 
+- Para poder iniciar su cuenta, su arma no deberá estar enrollada a otra.
 - El jugador deberá arrodillarse en el lugar del campo que fue impactado. En caso de verse obligado a desplazarse, deberá regresar a la posición del impacto e iniciar su cuenta.
 - Su arma deberá estar de manera horizontal y en el suelo.
 - Si lleva un escudo, no podrá realizar la cuenta con la mano que lo porta. Además el escudo deberá permanecer agarrado en todo momento y no podrá usarse para cubrirse.
@@ -583,8 +589,7 @@ Un jugador no activo **SÍ** acumula tiempos de penalización por faltas (salvo 
 Se considera la combinación de dos espadas cortas como una combinación específica de armas con las siguientes reglas especiales:
 
 - Un jugador que use esta combinación de armas puede atacar levantándose empuñando una única arma sin que se considere que no se agarra correctamente.
-- Un jugador que use esta combinación de armas sigue sin poder abandonar un arma a voluntad.
-- Un jugador que use esta combinación de armas puede atacar con la otra espada si se desprende de una de manera involuntaria sin que se considere falta. Una vez finalizada esa acción, deberá proceder a recoger su arma.
+- Un jugador que use esta combinación de armas puede atacar con la otra espada si se desprende de una de manera por el motivo que fuera. Podrá recoger su espada en cualquier momento del punto o la finalizar el mismo.
 - Un jugador que use esta combinación de armas podrá pinear a un jugador con cada una de sus espadas.
 
 Hay que tener en cuenta que el jugador sigue sin poder desprenderse de manera voluntaria de una de sus espadas para realizar un atque.
@@ -859,7 +864,7 @@ El equipo arbitral estará compuesto como mínimo por los siguientes componentes
 - Dos árbitros de zona de marcaje. 
 - Contador/es.
 
-![Equipo arbitral - Imagen 15](https://fejugger.es/images/doc/reglamento/imagen15.png)
+![Equipo arbitral - Imagen 15](./images/rulebook/imagen15.png)
 
 ### 7.2.1 Principal
 El árbitro principal es el máximo responsable un partido. El árbitro principal debe estar a la misma altura que el *jugg* en el lateral del campo al comienzo del punto. Además, en situaciones dudosas, tiene la última palabra. Aparte, tiene las siguientes tareas:
