@@ -147,7 +147,9 @@ Es un arma a una mano y puede agarrarse desde cualquier parte de su zona de agar
 ### 3.2.5 Escudo
 ![Escudo - Imagen 11](./images/rulebook/imagen11.png)
 
-El escudo debe ser redondo y tener un diámetro de 60 cm y un grosor de hasta 25 cm (sin incluir el agarre). Se usa con una sola mano y es considerado un arma no ofensiva por lo que **NO** está permitido atacar con el escudo. Debe tener el borde y el frontal siempre acolchados. El escudo debe sujetarse desde el agarre.
+El escudo debe ser redondo y tener un diámetro de 60 cm y un grosor de hasta 25 cm (sin incluir el agarre). Ambas caras del escudo deben ser solidas, planas y rectas (sin contar los agarres y correas y sus fijaciones). El centro del escudo puede tener una cazoleta de hasta 25 cm de diametro para el agarre. El grosor de la cazoleta y el del escudo no pueden superar el grosor máximo definido. El escudo debe sujetarse desde el agarre y puede fijarse al brazo mediante correas.
+
+Se usa con una sola mano y es considerado un arma no ofensiva por lo que **NO** está permitido atacar con el escudo. Debe tener el borde y el frontal siempre acolchados. 
 
 ### 3.2.6 Kette
 ![Kette - Imagen 12](./images/rulebook/imagen12.png)
