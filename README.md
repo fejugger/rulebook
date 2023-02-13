@@ -24,11 +24,11 @@ Un repositorio es un almacén de ficheros sobre los que se realiza con un contro
 
 Todos los ficheros sobre los que se realiza el control de versiones se pueden ver en la pestaña _code_.
 
-![Code](./images/code.jpg)
+![Code](./images/readme/code.jpg)
 
 Al hacer click en un fichero, podemos ver su contenido. De manera adicional, también podemos ver cuando se modificó por última vez.
 
-![Files](./images/files.jpg)
+![Files](./images/readme/files.jpg)
 
 El reglamento se encuenta en el fichero [rulebook.md](./rulebook.md)
 
@@ -45,17 +45,17 @@ El repositorio gestiona las modificaciones a través de las [pull request](https
 
 Generalmente cada solicitud de cambio representará una regla nueva para ser votada por los representantes.
 
-![PR](./images/pr.jpg)
+![PR](./images/readme/pr.jpg)
 
 Una _pull request_ es una solicitud de cambios sobre el contenido actual. Una _pull request_ esta formada por un nombre, una descripción y los cambios que se proponen.
 
-![PR1](./images/pr1.jpg)
+![PR1](./images/readme/pr1.jpg)
 
 Al crear una _pull request_, automaticamente se abre un debate sobre el mismo en el que cualquier usuario registrado puede participar.
 
 Para ver los cambios, simplemente es necesario ir al elemento _Files changed_ del menú.
 
-![PR2](./images/pr2.jpg)
+![PR2](./images/readme/pr2.jpg)
 
 Para notificar los cambios se utiliza un código de colores muy sencillo:
 - En rojo las líneas de texto que se eliminan.
@@ -64,22 +64,22 @@ Para notificar los cambios se utiliza un código de colores muy sencillo:
 
 De manera adicional, podemos ver los cambios en formato _enriquecido_.
 
-![Rich1](./images/rich1.jpg)
+![Rich1](./images/readme/rich1.jpg)
 
-![Rich2](./images/rich2.jpg)
+![Rich2](./images/readme/rich2.jpg)
 
 También podemos ver el resultado final del contenido modificado.
 
-![View1](./images/view1.jpg)
+![View1](./images/readme/view1.jpg)
 
 ### Añadir comentarios sobre algún cambio específico
 Los usuarios registrados pueden añadir comentarios sobre la solicitud en general o sobre alguna parte del contenido.
 
-![Comment1](./images/comment1.gif)
+![Comment1](./images/readme/comment1.gif)
 
-![Comment2](./images/comment2.gif)
+![Comment2](./images/readme/comment2.gif)
 
-![Comment3](./images/comment3.jpg)
+![Comment3](./images/readme/comment3.jpg)
 
 ## Crear un debate o realizar una pregunta
 
