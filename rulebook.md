@@ -28,7 +28,7 @@ Las líneas más largas se llaman *líneas de banda*.
 
 Las líneas delimitan la superficie de juego y no forman parte del campo.
 
-![Campo de Jugger - Imagen 1](https://fejugger.es/images/doc/reglamento/imagen1.png)
+![Campo de Jugger - Imagen 1](./images/rulebook/imagen1.png)
 
 ## 1.2 EL CENTRO
 En el centro del terreno de juego debe haber una marca bien señalizada donde se debe situar el *jugg* al comienzo de cada punto.
@@ -38,7 +38,7 @@ La base es una pieza con un orificio en el centro en la que hay que colocar el *
 
 Tienen 50 cm de diámetro aproximadamente, un agujero en el centro de unos 12 cm de diámetro y altura suficiente para que encaje el *jugg*. La zona de marcaje tiene que ser también blanda para evitar daños a los jugadores. Pueden estar parcialmente ancladas al suelo para evitar que los pequeños golpes las desplacen.
 
-![Base - Imagen 2](https://fejugger.es/images/doc/reglamento/imagen2.png)
+![Base - Imagen 2](./images/rulebook/imagen2.png)
 
 # CAPÍTULO 2: LOS JUGADORES
 
@@ -73,14 +73,14 @@ Antes del comienzo del partido, este deberá identificarse en el acta en la casi
 
 ## 2.6 ZONA DE EQUIPO
 Durante el transcurso de un punto, los jugadores que no formen parte de la línea solo podrán permanecer en la zona de su equipo.  La zona de equipo (resaltada en verde en la imagen) equivale a la superficie exterior al campo desde la línea de centro hasta detrás de la línea de base que le corresponde a su equipo. Estos jugadores no podrán interferir en el desarrollo del partido ni dirigirse al equipo rival ni al equipo arbitral.
- ![Zona de equipo - Imagen 3](https://fejugger.es/images/doc/reglamento/imagen3.png)
+ ![Zona de equipo - Imagen 3](./images/rulebook/imagen3.png)
 
 # CAPÍTULO 3: EQUIPAMIENTO
 
 ## 3.1 JUGG
 El *jugg* es el objeto que el corredor ha de situar en la zona de marcaje para conseguir un tanto. Ha de medir entre 28 y 30 cm de largo y tener un extremo sensiblemente más estrecho que el otro, con diámetros de entre 12 y 15 cm en su lado ancho y entre 8 y 10 en su lado estrecho. Los *juggs* deben ser blandos, seguros y no podrán tener un alma rígida en su interior.
 
-![Jugg - Imagen 4](https://fejugger.es/images/doc/reglamento/imagen4.png)
+![Jugg - Imagen 4](./images/rulebook/imagen4.png)
 
 El corredor es el único jugador que puede coger, llevar y lanzar el *jugg* para así conseguir tantos para su equipo. El corredor no puede lanzar el *jugg* contra sus rivales, ni tiene permitido darle patadas. Los corredores sí podrán frenar el *jugg* usando el cuerpo.
 
@@ -107,47 +107,47 @@ Las **zonas de golpeo** de las armas deben cumplir lo siguiente:
 - Las zonas de golpeo deben medir **al menos 40 cm** de longitud. 
 - Debe existir una diferencia de al menos 4 cm de diámetro en la unión entre las zonas de acolchado y las de agarre de algunas armas. Esta diferencia puede generarse con el propio acolchado o con un anillo de al menos 4 cm de longitud siempre que se mantenga el mínimo de 6 cm de diámetro. Se resaltan en los dibujos de cada arma las zonas en las que tiene que existir dicha diferencia
 
-![Escalón - Imagen 5](https://fejugger.es/images/doc/reglamento/imagen5.png)
+![Escalón - Imagen 5](./images/rulebook/imagen5.png)
 
 Las **puntas** deben cumplir lo siguiente: 
 - La punta del arma no puede tener alma y debe estar realizada solo con acolchado o material blando.
 - La punta del arma debe ser suficientemente resistente para no romperse al fondear con ella.
 
-![Punta - Imagen 6](https://fejugger.es/images/doc/reglamento/imagen6.png)
+![Punta - Imagen 6](./images/rulebook/imagen6.png)
 
 ### 3.2.1 Q-tip
-![Q-tip - Imagen 7](https://fejugger.es/images/doc/reglamento/imagen7.png)
+![Q-tip - Imagen 7](./images/rulebook/imagen7.png)
 
 El *Q-tip* tiene unas dimensiones máximas de 200 cm. Tiene una zona de agarre central que debe estar **mínimamente acolchada** y dos zonas de golpeo situadas a los extremos de hasta 60 cm. Es un arma a dos manos, pudiéndose situar cada una en cualquier parte de la zona de agarre. 
 
 ### 3.2.2 Bastón o stab
-![Stab - Imagen 8](https://fejugger.es/images/doc/reglamento/imagen8.png)
+![Stab - Imagen 8](./images/rulebook/imagen8.png)
 
 El *stab* tiene unas dimensiones máximas de 180 cm. La zona de impacto está situada en un extremo y mide 90 cm. La zona entre los dos agarres no se considera zona de golpeo válido, aunque debe estar acolchada y tener un mínimo de 4 cm de diámetro.
 
 Es un arma a dos manos con dos zonas de agarre separadas y solo produce impactos válidos cuando se usan ambos agarres simultáneamente. No está permitido fondear o estocar con el *stab*.
 
 ### 3.2.3 Mandoble
-![Mandoble - Imagen 9](https://fejugger.es/images/doc/reglamento/imagen9.png)
+![Mandoble - Imagen 9](./images/rulebook/imagen9.png)
 
 El mandoble tiene unas dimensiones máximas de 140 cm. La zona de golpeo mide 100 cm y la zona de agarre mide 40 cm. 
 
 Es un arma a dos manos.
 
 ### 3.2.4 Espada corta
-![Espada Corta - Imagen 10](https://fejugger.es/images/doc/reglamento/imagen10.png)
+![Espada Corta - Imagen 10](./images/rulebook/imagen10.png)
 
 La espada corta tiene unas dimensiones de 85 cm. La zona de golpeo mide 65 cm. La zona de agarre mide 20 cm. 
 
 Es un arma a una mano y puede agarrarse desde cualquier parte de su zona de agarre. Puede combinarse con otra espada corta o con un escudo en la otra mano.
 
 ### 3.2.5 Escudo
-![Escudo - Imagen 11](https://fejugger.es/images/doc/reglamento/imagen11.png)
+![Escudo - Imagen 11](./images/rulebook/imagen11.png)
 
 El escudo debe ser redondo y tener un diámetro de 60 cm y un grosor de hasta 25 cm (sin incluir el agarre). Se usa con una sola mano y es considerado un arma no ofensiva por lo que **NO** está permitido atacar con el escudo. Debe tener el borde y el frontal siempre acolchados.
 
 ### 3.2.6 Kette
-![Kette - Imagen 12](https://fejugger.es/images/doc/reglamento/imagen12.png)
+![Kette - Imagen 12](./images/rulebook/imagen12.png)
 
 El *kette* tiene unas dimensiones máximas de 320 cm. El *kette* está formado por una bola de 20 cm de diámetro (no puede ser de medida inferior) y un conjunto de enlace y agarre de hasta 300 cm. 
 
@@ -316,7 +316,7 @@ El cuello y la cabeza no son zonas de impacto válidas. El cuello **NO** engloba
 
 Si un golpe primero hace contacto en la cabeza o en el cuello y luego en una zona de impacto no será considerado válido. Si por el contrario empieza en una zona de impacto y termina en la cabeza o en el cuello, este sí será considerado como impacto válido. Si estos impactos se producen en dos golpes, será considerado como válido siempre que el golpe en la cabeza no genere daño o suponga un aturdimiento evidente.
 
-![Cabeza - Imagen 13](https://fejugger.es/images/doc/reglamento/imagen13.png)
+![Cabeza - Imagen 13](./images/rulebook/imagen13.png)
 
 Si un impacto golpea de manera simultánea una zona de impacto no válida (como el cuello o la cabeza) y una zona de impacto válida, se considerará impacto válido. En caso de duda siempre será el árbitro el que decida.
 
@@ -326,7 +326,7 @@ Si un jugador intenta emplear de forma deliberada o repetida la cabeza para para
 Las manos que portan un arma no son zonas de impacto válidas. Las manos **NO** engloban las muñecas. Si un jugador es golpeado en la mano, deberá decir en alto «¡Mano!». Si un golpe primero hace contacto en la mano y luego en una zona de impacto válida, será considerado válido.
 
 La mano sí es una zona de impacto válida cuando es la mano que porta un escudo, cuando no se encuentra agarrando un arma o cuando se juega como cadenero o corredor. Además, si el corredor porta el *jugg*, este también es zona de impacto válida para él.
-![Mano - Imagen 14](https://fejugger.es/images/doc/reglamento/imagen14.png)
+![Mano - Imagen 14](./images/rulebook/imagen14.png)
 
 ## 5.3 DOBLES
 Si un jugador realiza un impacto mientras es impactado **al mismo tiempo** por otro jugador se considera un impacto doble y todos los jugadores impactados deberán realizar su cuenta de penalización.
@@ -778,7 +778,7 @@ El equipo arbitral estará compuesto como mínimo por los siguientes componentes
 - Dos árbitros de zona de marcaje. 
 - Contador/es.
 
-![Equipo arbitral - Imagen 15](https://fejugger.es/images/doc/reglamento/imagen15.png)
+![Equipo arbitral - Imagen 15](./images/rulebook/imagen15.png)
 
 ### 7.2.1 Principal
 El árbitro principal es el máximo responsable un partido. El árbitro principal debe estar a la misma altura que el *jugg* en el lateral del campo al comienzo del punto. Además, en situaciones dudosas, tiene la última palabra. Aparte, tiene las siguientes tareas:
