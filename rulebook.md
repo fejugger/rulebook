@@ -156,11 +156,9 @@ El *kette* tiene unas dimensiones máximas de 320 cm. El *kette* está formado p
 
 La bola debe ser una esfera de material blando que **NO** puede estar cubierta en su totalidad con cinta. Las medidas de la bola no pueden variar del rango definido. Es decir, la bola no se beneficia de la regla de que las medidas son máximas.
 
-La bola no puede unirse al enlace con materiales metálicos o rígidos. El conjunto de enlace y agarre no podrá contener ningún elemento metálico. 
+La bola no puede unirse al enlace con materiales metálicos o rígidos. El conjunto de enlace y agarre no podrá contener ningún elemento metálico ni rígido o duro. 
 
-Si el material del enlace es rígido y duro, el metro más cercano a la bola debe estar acolchado, con protecciones que deben estar fijadas total o parcialmente, de manera que sea imposible hacer una separación de más de 3 cm entre cada una de ellas. La protección más lejana a la bola sí deberá estar fijada de manera total. El enlace en esta parte debe tener al menos 2 cm en una de sus dimensiones y no puede exponer materiales abrasivos en su capa exterior.
-
-Fuera del metro más cercano a la bola, el enlace debe tener al menos 2 cm en una de sus dimensiones, no puede ser de sección cilíndrica ni exponer materiales abrasivos en su capa exterior.
+El enlace debe tener al menos 2 cm en una de sus dimensiones, no puede ser de sección cilíndrica ni exponer materiales abrasivos en su capa exterior.
 
 El agarre del *kette* deberá poder desprenderse con facilidad del jugador para evitar posibles tirones que pongan en peligro a los jugadores. Todo el conjunto de enlace y bola es considerado una única zona de agarre válida. El kette puede realizar impactos válidos siempre que se sujete con al menos una mano.
 
