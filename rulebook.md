@@ -441,7 +441,7 @@ Cuando un pineo finaliza puede ocurrir que el jugador arrodillado:
 En ambos casos si el intervalo suena justo cuando se está liberando el pineo, no será tenido en cuenta y habrá que esperar a que suene el siguiente.
 
 ## 5.7 CONTACTO ILEGAL
-Se produce un contacto ilegal cuando un jugador a través de una acción antinatural se desentiende de las acciones del juego y utiliza su cuerpo para dificultar o evitar que un jugador rival progrese en el espacio.
+Se produce un contacto ilegal cuando un jugador a través de una acción antinatural se desentiende de las acciones del juego y utiliza su cuerpo para dificultar o evitar que un jugador rival progrese en el espacio u ocupe un lugar en el que ya está.
 
 Se tendrán en cuenta las siguientes consideraciones:
 
