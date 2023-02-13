@@ -447,21 +447,17 @@ Cuando un pineo finaliza puede ocurrir que el jugador arrodillado:
 
 En ambos casos si el intervalo suena justo cuando se está liberando el pineo, no será tenido en cuenta y habrá que esperar a que suene el siguiente.
 
-## 5.7 CARGAS
-Una carga es un golpe que realiza un jugador con alguna parte de su cuerpo o de su arma que no sea considerada zona de impacto sobre un oponente.
-
-Si existe la posibilidad de que las trayectorias de los jugadores hagan que estos choquen en movimiento, deberán detenerse antes del impacto.
+## 5.7 CONTACTO ILEGAL
+Se produce un contacto ilegal cuando un jugador a través de una acción antinatural se desentiende de las acciones del juego y utiliza su cuerpo para dificultar o evitar que un jugador rival progrese en el espacio u ocupe un lugar en el que ya está.
 
 Se tendrán en cuenta las siguientes consideraciones:
+- Un jugador también puede cometer un contacto ilegal si utiliza su arma de manera irregular bajo las condiciones arriba descritas. (Por ejemplo, agarrar un stab de manera incorrecta para ocupar más espacio y evitar que un qwiker anote).
+- Un jugador inactivo puede cometer un contacto ilegal.
+- El contacto entre dos qwikers no será considerado contacto ilegal. Estos se rigen por la sección [Lucha de corredores](#510-lucha-de-corredores) del reglamento.
 
-- Un golpe con el cuerpo contra el cuerpo del rival o una zona de su arma que no produzca impactos válidos, debe considerarse carga, independientemente de la intensidad del mismo.
-- Un golpe entre dos armas, ya sea entre zonas de golpeo válidas o zonas que no produzcan impactos válidos, seguirán siendo golpes entre armas y por lo tanto no serán considerados carga.
-
-El contacto físico entre jugadores del mismo equipo no es considerado carga, por lo que sí está permitido siempre que no ponga en peligro su integridad física.
-
-Siempre que un jugador **RECIBA** una carga y considere que la fuerza del golpe no ha sido significativa, está en la libertad de indicar de manera visible para los árbitros al jugador que realizó la carga que continúe jugando y no lo considere falta. En todo momento es el jugador que recibe la carga el único con potestad para decidir, nunca podrá hacerlo el jugador que la realizó.
-
-Las cargas son consideradas faltas y no producen impactos válidos. Esto es, si se realiza una carga con el fin de obtener cualquier tipo de ventaja a la hora de conseguir un golpe, el impacto no se considerará válido.
+Un contacto ilegal es una acción ilegal que se sanciona con falta grave directa.
+Es importante destacar que esta falta sanciona la mala fe del jugador y su proposito de sacar una ventaja.
+No es objetivo de esta norma evaluar la intensidad y peligrosidad del contacto. Esa tipo de acciones se rigen bajo la norma [Juego imprudente](#517-juego-imprudente) del reglamento.
 
 ## 5.8 LUCHA DE CORREDORES
 Los corredores pueden luchar entre ellos. Las técnicas que están permitidas son:
@@ -596,6 +592,15 @@ Se considera la combinación de dos espadas cortas como una combinación especí
 - Un jugador que use esta combinación de armas puede atacar con la otra espada si se desprende de una de manera por el motivo que fuera. Podrá recoger su espada en cualquier momento del punto o la finalizar el mismo.
 - Un jugador que use esta combinación de armas podrá pinear a un jugador con cada una de sus espadas.
 
+Si esta acción se considera que se ejecuta con fuerza excesiva o brutalidad, deberá ser sancionada con una falta técnica.
+
+## 5.17 JUEGO IMPRUDENTE
+Este término se refiere a las acciones del juego en las que un jugador adopta una postura negligente, arriesgada o temeraria y sin tener en cuenta las consecuencias pudiendo poner en peligro la seguridad de los demás jugadores.
+
+Si el jugador que recibió la acción considera que la acción no ha sido imprudente, prevalecerá el acuerdo entre jugadores.
+
+El juego imprudente es una acción ilegal que se sanciona con falta grave directa.
+Cualquier acción del juego puede ser sancionada con juego imprudente, independientemente de si se cometió de manera deliberada o accidental.
 
 # CAPÍTULO 6: SANCIONES
 **PARA EL CORRECTO FUNCIONAMIENTO DEL JUEGO Y MINIMIZAR LA ACCIÓN DEL EQUIPO ARBITRAL ES NECESARIO RESPETAR LAS REGLAS Y SEGUIR EL ESPÍRITU DEL JUGGER.**
@@ -681,7 +686,6 @@ Las faltas leves son aquellas acciones que no cambian en exceso el resultado del
 
 Las faltas leves se producen en los siguientes casos:
 
-- Cargas sobre un jugador. 
 - Realizar un pineo ilegal (doble, con el escudo o el kette, uso incorrecto del arma). 
 - Realizar tirones fuertes del arma o del *kette* cuando están trabadas entre sí. El sancionado es aquel o aquellos que realizan los tirones. 
 - Golpear el *jugg* con el cuerpo (por ejemplo dar una patada) habiendo o no un arma entre el *jugg* y el cuerpo a excepción de las manos del corredor. 
@@ -745,9 +749,9 @@ Si un jugador comete una falta leve durante el juego y no se arrodilla, el árbi
 
 Las **faltas graves directas** se producen en los siguientes casos:
 
+- Contactos ilegales.
 - Realizar acciones que pongan en peligro la integridad de otros jugadores.
-	- Juego peligroso. 
-	- Cargas. 
+	- El juego imprudente.
 	- Golpes muy fuertes. 
 	- Golpear a alguien voluntariamente con alguna parte del cuerpo. 
 	- Lanzar el *jugg* contra un jugador o fuera del campo de forma intencionada. 
@@ -789,7 +793,6 @@ No puede darse acuerdo entre jugadores en los siguientes casos:
 - Apología política. 
 - Empleo de elementos ajenos a la equipación estrictamente necesaria que puedan poner en riesgo la integridad física de los jugadores.
 
-
 ### 6.3.5 Falta penal
 Si un jugador evita la consecución de un tanto claro con una falta, se sanciona con falta penal otorgando el tanto y aplicando las sanciones que correspondan.
 
@@ -819,7 +822,7 @@ Se han de tener en cuenta las siguientes consideraciones:
 
 Puede aplicarse una falta técnica en el momento en que un jugador lleve a cabo una acción que el árbitro considere merecedora de una expulsión directa, entre otras:
 
-- Juego peligroso desmesurado. 
+- Juego imprudente excesivo. 
 - Falta de respeto al equipo arbitral, público o equipo rival. 
 - Transmitir una imagen de violencia excesiva en el deporte. 
 - Lesionar a un rival o compañero de forma intencionada. 
