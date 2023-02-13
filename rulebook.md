@@ -446,11 +446,12 @@ Se produce un contacto ilegal cuando un jugador a través de una acción antinat
 Se tendrán en cuenta las siguientes consideraciones:
 
 - Un jugador también puede cometer un contacto ilegal si utiliza su arma de manera irregular bajo las condiciones arriba descritas. (Por ejemplo, agarrar un stab de manera incorrecta para ocupar más espacio y evitar que un qwiker anote).
+- Un jugador inactivo puede cometer un contacto ilegal.
 - El contacto entre dos qwikers no será considerado contacto ilegal. Estos se rigen por la sección [Lucha de corredores](#510-lucha-de-corredores) del reglamento.
 
 Un contacto ilegal es una acción ilegal que se sanciona con falta grave directa.
 Es importante destacar que esta falta sanciona la mala fe del jugador y su proposito de sacar una ventaja.
-No es objetivo de esta norma evaluar la intensidad y peligrosidad del contacto. Esa tipo de acciones se rigen bajo la norma [Lucha de corredores](#510-lucha-de-corredores) del reglamento.
+No es objetivo de esta norma evaluar la intensidad y peligrosidad del contacto. Esa tipo de acciones se rigen bajo la norma [Juego imprudente](#517-juego-imprudente) del reglamento.
 
 ## 5.8 LUCHA DE CORREDORES
 Los corredores pueden luchar entre ellos. Las técnicas que están permitidas son:
