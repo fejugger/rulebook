@@ -288,7 +288,7 @@ En el caso de que se finalice el partido y no pueda haber empate, este se resuel
 ### 4.3.2 Modelo de Sets
 Gana el equipo que primero logra ganar el número de sets definido. Un equipo logra un set si llega a un número de tantos específicos. Entre cada set hay una pausa de descanso y se cambia de campo.
 
-Entre los módelos más comunes de sets se encuentran 1 set de 10 puntos, 3 sets de 5 puntos o 5 sets de 5 puntos, aunque cualquier otra combinación sería igualmente válida.
+Entre los modelos más comunes de sets se encuentran 1 set de 10 puntos, 3 sets de 5 puntos o 5 sets de 5 puntos, aunque cualquier otra combinación sería igualmente válida.
 
 ### 4.3.3 Victoria por faltas
 Se gana un partido si el equipo contrario alcanza el número máximo de faltas y queda, por tanto, descalificado del partido.
@@ -541,7 +541,7 @@ Un corredor puede defender en la base siempre y cuando no obstruya el orificio d
 
 Si durante un forcejeo se desplazara la base, se intentará colocar de manera que no influya ni en la disputa ni en el resultado del punto.
 
-Si esto resultara imposible, el árbitro procederá a resolver la acción de la manera más adecuada posible:
+Si esto resultara imposible, el árbitro principal procederá a resolver la acción de la manera más adecuada posible:
 
 - Si el corredor atacante pudiera transformar un tanto de manera clara (es decir, sin oportunidad de que otro jugador lo evite) pero esto fuera imposible por no encontrarse la base en su lugar, el árbitro concederá el punto sin necesidad de colocar la base.
 - Interrumpirá el punto para colocar la base y lo reanudará cuando estime oportuno.
