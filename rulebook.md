@@ -258,7 +258,7 @@ Un punto se repetirá en los siguientes casos:
 Se entiende como consecuencia directa aquella acción que al resolverse implica la consecución de un tanto de manera inmediata. Si la acción antirreglamentaria sucede antes de otra acción totalmente legal que conlleve la consecución de un punto, NO se considerará consecuencia directa y NO se reiniciará el punto, aunque sí deberá sancionarse la falta o faltas graves pertinentes. Si el árbitro viese la falta de forma clara, deberá sancionar al jugador o jugadores en el acto, impidiendo que continúen jugando e influyan negativamente en el desarrollo del punto.
 
 #### Juego pasivo
-Si por las características del encuentro, un partido no acabara de una manera autónoma (finalización del tiempo de ronda, de los intervalos, etc.) y un punto se viera estancado en una situación del juego que ningún equipo tuviera interés en resolver, el árbitro deberá determinar *juego pasivo* y comezar un nuevo punto.
+Si por las características del encuentro, un partido no acabara de una manera autónoma (finalización del tiempo de ronda, de los intervalos, etc.) y un punto se viera estancado en una situación del juego que ningún equipo tuviera interés en resolver, el árbitro deberá determinar *juego pasivo* y comenzar un nuevo punto.
 
 Para poder determinar *juego pasivo*, el árbitro debe identificar que la situación está bloqueada. En ese momento, procederá a notificar a los corredores de ambos equipos que ha identificado un posible *juego pasivo*. Si ambos equipos continúan sin desbloquear la situación, el árbitro principal detendrá el juego y se iniciará un nuevo punto.
 
