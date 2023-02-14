@@ -97,7 +97,7 @@ Las armas deben de ser seguras. Para todas las armas rigen estas normas:
 -  Las armas deben ser lo suficientemente seguras como para no causar daños al impactar.
 
 Se considera un **anillo** a una ampliación en el relieve del acolchado que se situa de la zona de golpeo de un arma.
-No serán considerados anillos los refuerzos necesarios para hacer que la punta sea segura, siempre y cuando estos no generen una diferencia en el radio del arma de más de 2.5 cm ni superen los 15 cm de diametro totales permitidos.
+No serán considerados anillos los refuerzos necesarios para hacer que la punta sea segura, siempre y cuando estos no generen una diferencia en el radio del arma de más de 2.5 cm ni superen los 15 cm de diametro totales permitidos. Tampoco podrán tener una longitud mayor a 10 cm.
 
 Se considera **mínimamente acolchado** cuando, al aplicar una leve presión sobre el material, este cede parcialmente. Asimismo, debe llevar una capa externa de recubrimiento. El acolchado deberá ser fijo y no desplazarse.
 
