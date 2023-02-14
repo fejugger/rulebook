@@ -111,7 +111,7 @@ Las **zonas de golpeo** de las armas deben cumplir lo siguiente:
 - Todos los bordes deben ser redondeados y no deben presentar aristas. 
 - Las zonas de golpeo no deben producir arañazos al resto de jugadores. 
 - Las zonas de golpeo deben medir **al menos 40 cm** de longitud. 
-- Debe existir una diferencia de al menos 2 cm de diámetro en la unión entre las zonas de acolchado y las de agarre de algunas armas. Esta diferencia puede generarse con el propio acolchado o con un refeurzo de al menos 4 cm de longitud siempre que se mantenga el mínimo de 6 cm de diámetro. Se resaltan en los dibujos de cada arma las zonas en las que tiene que existir dicha diferencia
+- Debe existir una diferencia de al menos 2 cm de diámetro en la unión entre las zonas de acolchado y las de agarre de algunas armas. Esta diferencia puede generarse con el propio acolchado o con un refuerzo de al menos 4 cm de longitud siempre que se mantenga el mínimo de 6 cm de diámetro. Se resaltan en los dibujos de cada arma las zonas en las que tiene que existir dicha diferencia
 
 ![Escalón - Imagen 5](./images/rulebook/imagen5.png)
 
