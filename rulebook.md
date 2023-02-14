@@ -133,7 +133,7 @@ El *Q-tip* tiene unas dimensiones máximas de 200 cm. Tiene una zona de agarre c
 
 El *stab* tiene unas dimensiones máximas de 180 cm. La zona de impacto está situada en un extremo y mide 90 cm. La zona entre los dos agarres no se considera zona de golpeo válido, aunque debe estar acolchada y tener un mínimo de 4 cm de diámetro.
 
-Es un arma a dos manos con dos zonas de agarre separadas, y solo produce impactos válidos cuando se usan ambos agarres simultáneamente. No está permitido fondear o estocar con el *stab*.
+Es un arma a dos manos con dos zonas de agarre separadas, y solo produce impactos válidos cuando se usan ambos agarres simultáneamente.
 
 ### 3.2.3 Mandoble
 ![Mandoble - Imagen 9](./images/rulebook/imagen9.png)
@@ -304,7 +304,6 @@ Se considera golpe todo contacto que existe entre un arma y un jugador distinto 
 - Ha de realizarse con el arma correctamente agarrada.
 - No ha de realizarse con fuerza desmesurada.
 - El arma no debe estar rota.
-- En el caso del *stab*, no ha de ser un fondo o una estocada.
 
 Un impacto válido hace que el jugador tenga que arrodillarse y realizar una cuenta de penalización de 5 intervalos (8 en caso de un impacto del *kette*).
 
@@ -314,8 +313,6 @@ No está permitido atacar con el arma agarrada incorrectamente. Se considerará 
 - Con una combinación que involucre un escudo, este no se agarra correctamente, es decir, no se sujeta desde el agarre del escudo.
 
 Los golpes realizados bajo esta condición se considerarán falta y no producirán impactos válidos.
-
-También se considerarán falta los fondos con el *stab*.
 
 Sí está permitido defenderse agarrando un arma a dos manos con una sola mano.
 
@@ -529,14 +526,7 @@ Un golpe realizado agarrando de forma indebida el arma no solo no produce un imp
 
 Esta norma también aplica a un escudo. Si este no se agarra de manera correcta, los impactos que realice ese jugador no serán válidos.
 
-## 5.12 FONDOS CON EL *STAB*
-Se entiende por fondeo todo aquel ataque que se realiza clavando la punta y moviendo el *stab* de atrás hacia adelante.
-
-Los golpes realizados de esta manera con el *stab* no serán considerados impactos válidos. Tampoco se considerarán impactos válidos los golpes que se produzcan tras un fondo con el *stab*. Además este tipo de impactos serán considerados como falta, por lo que se deberá avisar al contrario y autoarbitrar la falta leve en el momento.
-
-Sí serán considerados válidos todos los impactos que se realicen con la punta siempre que el golpe no haya sido producido por un fondo (golpe lateral que impacte solo con la punta) o aquellos en los que el oponente se golpeara contra la punta del *stab* por acción directa sin que el jugador que lo porta realice un ataque.
-
-## 5.13 INTERACTUAR CON LAS BASES
+## 5.12 INTERACTUAR CON LAS BASES
 Un corredor puede defender en la base siempre y cuando no obstruya el orificio de la misma y no la desplace deliberadamente. Se considerará que obstruye este orificio siempre que con alguna parte del cuerpo no permita que se pueda introducir el *jugg* en el mismo.
 
 Si durante un forcejeo se desplazara la base, se intentará colocar de manera que no influya ni en la disputa ni en el resultado del punto.
@@ -548,7 +538,7 @@ Si esto resultara imposible, el árbitro procederá a resolver la acción de la 
 
 Si las bases estuvieran ancladas al suelo y estas se desplazaran, sí se considerará falta del jugador que la desplazó.
 
-## 5.14 ABANDONAR EL ARMA
+## 5.13 ABANDONAR EL ARMA
 Un jugador no puede abandonar su arma en el campo de manera voluntaria para intervenir en ninguna situación del juego.
 
 En ningún caso se considerará abandono del arma en los siguientes casos:
@@ -566,7 +556,7 @@ Si un jugador resulta impactado en esta situación, podrá elegir recoger su arm
 
 Un árbitro **NO** podrá intervenir para facilitar el arma a cualquier jugador inactivo.
 
-## 5.15 JUGADORES ACTIVOS
+## 5.14 JUGADORES ACTIVOS
 
 Un jugador **ACTIVO** es aquel que está en juego. Las acciones de un jugador activo SÍ tienen validez.
 
@@ -598,7 +588,7 @@ En todos los casos acumulará el tiempo de penalización del primer impacto que 
 
 Un jugador no activo **SÍ** acumula tiempos de penalización por faltas (salvo *Salirse del campo*).
 
-## 5.16 DUALES
+## 5.15 DUALES
 Se considera la combinación de dos espadas cortas como una combinación específica de armas con las siguientes reglas especiales:
 
 - Un jugador que use esta combinación de armas puede atacar levantándose empuñando una única arma sin que se considere que no se agarra correctamente.
@@ -702,7 +692,6 @@ Las faltas leves se producen en los siguientes casos:
 - No respetar el intervalo después de un pineo.
 - Atacar con una combinación de armas sin agarrarla correctamente (arma a dos manos con una mano, escudo no agarrado o no portando un elemento).
 - Utilizar un arma agarrándola desde una zona diferente a la de agarre con el fin de obtener cualquier tipo de ventaja.
-- Realizar un fondo con el *stab*.
 - Romper el arma propia.
 - El uso de fuerza desmesurada, tanto en lucha de corredores como a la hora de realizar impactos con un arma.
 - Bloquear el orificio de la zona de marcaje.
