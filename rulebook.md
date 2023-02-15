@@ -75,7 +75,7 @@ Antes del comienzo del partido, el capitán deberá identificarse como tal en el
 
 ## 2.6 ZONA DE EQUIPO
 Durante el transcurso de un punto, los jugadores que no formen parte de la línea solo podrán permanecer en la zona de su equipo. La zona de equipo (resaltada en verde en la imagen) equivale a la superficie exterior al campo desde el inicio de las líneas de banda hasta detrás de la línea de base que le corresponde a su equipo. Estos jugadores no podrán interferir en el desarrollo del partido, ni dirigirse al equipo rival ni al equipo arbitral.
- ![Zona de equipo - Imagen 3](./images/rulebook/imagen3.png)
+ ![Zona de equipo - Imagen 3](./images/rulebook/imagen3.jpeg)
 
 
 # CAPÍTULO 3: EQUIPAMIENTO
@@ -113,7 +113,7 @@ Las **zonas de golpeo** de las armas deben cumplir lo siguiente:
 - Las zonas de golpeo deben medir **al menos 40 cm** de longitud.
 - Debe existir una diferencia de al menos 2 cm de diámetro en la unión entre las zonas de acolchado y las de agarre de algunas armas. Esta diferencia puede generarse con el propio acolchado o con un refuerzo de al menos 4 cm de longitud siempre que se mantenga el mínimo de 6 cm de diámetro. Se resaltan en los dibujos de cada arma las zonas en las que tiene que existir dicha diferencia.
 
-![Escalón - Imagen 5](./images/rulebook/imagen5.png)
+![Escalón - Imagen 5](./images/rulebook/imagen5.jpg)
 
 Las **puntas** deben cumplir lo siguiente:
 
@@ -121,7 +121,11 @@ Las **puntas** deben cumplir lo siguiente:
 - La punta del arma debe ser lo suficientemente resistente como para no romperse al fondear con ella.
 La punta puede tener un refuerzo para hacerla más segura siempre y cuando no genere una diferencia en el radio del arma de más de 2 cm ni supere el diámetro máximo permitido de 15 cm. Este refuerzo no deberá tener una longitud menor a 5 cm ni mayor a 10 cm.
 
+**Punta sin refuerzo**
 ![Punta - Imagen 6](./images/rulebook/imagen6.png)
+
+**Punta con refuerzo**
+![Punta - Imagen 6](./images/rulebook/imagen6.jpg)
 
 ### 3.2.1 Q-tip
 ![Q-tip - Imagen 7](./images/rulebook/imagen7.png)
@@ -143,7 +147,7 @@ El mandoble tiene unas dimensiones máximas de 140 cm. La zona de golpeo mide 10
 Es un arma a dos manos.
 
 ### 3.2.4 Espada corta
-![Espada Corta - Imagen 10](./images/rulebook/imagen10.png)
+![Espada Corta - Imagen 10](./images/rulebook/imagen10.jpg)
 
 La espada corta tiene unas dimensiones máximas de 85 cm. La zona de golpeo puede medir hasta 65 cm, y la zona de agarre hasta 25 cm. En ningún caso la longitud total puede superar la medida máxima definida.
 
@@ -157,7 +161,7 @@ El escudo debe ser redondo y tener un diámetro de 60 cm y un grosor de hasta 25
 Se usa con una sola mano y es considerado un arma no ofensiva por lo que **NO** está permitido atacar con el escudo. Debe tener el borde y el frontal siempre acolchados.
 
 ### 3.2.6 Kette
-![Kette - Imagen 12](./images/rulebook/imagen12.png)
+![Kette - Imagen 12](./images/rulebook/imagen12.jpg)
 
 El *kette* tiene unas dimensiones máximas de 320 cm. El *kette* está formado por una bola de entre 55 cm y 77 cm de perímetro (18-22 cm de diámetro) y un conjunto de enlace y agarre de longitud variable. En ningún caso la longitud total puede superar la medida máxima definida.
 
