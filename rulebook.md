@@ -75,7 +75,8 @@ Antes del comienzo del partido, el capitán deberá identificarse como tal en el
 
 ## 2.6 ZONA DE EQUIPO
 Durante el transcurso de un punto, los jugadores que no formen parte de la línea solo podrán permanecer en la zona de su equipo. La zona de equipo (resaltada en verde en la imagen) equivale a la superficie exterior al campo desde el inicio de las líneas de banda hasta detrás de la línea de base que le corresponde a su equipo. Estos jugadores no podrán interferir en el desarrollo del partido, ni dirigirse al equipo rival ni al equipo arbitral.
- ![Zona de equipo - Imagen 3](./images/rulebook/imagen3.jpeg)
+
+![Zona de equipo - Imagen 3](./images/rulebook/imagen3.jpeg)
 
 
 # CAPÍTULO 3: EQUIPAMIENTO
@@ -122,9 +123,11 @@ Las **puntas** deben cumplir lo siguiente:
 La punta puede tener un refuerzo para hacerla más segura siempre y cuando no genere una diferencia en el radio del arma de más de 2 cm ni supere el diámetro máximo permitido de 15 cm. Este refuerzo no deberá tener una longitud menor a 5 cm ni mayor a 10 cm.
 
 **Punta sin refuerzo**
+
 ![Punta - Imagen 6](./images/rulebook/imagen6.png)
 
 **Punta con refuerzo**
+
 ![Punta - Imagen 6](./images/rulebook/imagen6.jpg)
 
 ### 3.2.1 Q-tip
@@ -648,7 +651,7 @@ Las asistencias arbitrales posibles son:
 - Golpe en la ropa.
 
 ### Salirse del campo
-Por circustancias del juego a veces los jugadores tocan la línea que delimita el campo. Si un jugador se sale del campo, deberá realizar una cuenta de 5 intervalos arrodillandose en el punto donde se salió. Un jugador puede salirse del campo cuando desee.
+Por circustancias del juego a veces los jugadores tocan la línea que delimita el campo. Si un jugador se sale del campo, deberá realizar una cuenta de 5 intervalos arrodillándose en el punto donde se salió. Un jugador puede salirse del campo cuando desee.
 
 No respetar esta penalización conllevará una falta grave indirecta (*Incumplir el tiempo de penalización*).
 
