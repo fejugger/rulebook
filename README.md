@@ -2,11 +2,14 @@
 
 Bienvenido al repositorio del reglamento de jugger de La Federación Española de Jugger.
 
-Actualmente el reglamento se encuentra en su versión 5.0
+Actualmente el reglamento se encuentra en su  **versión 5.1**
 
 - [Reglamento](./rulebook.md)
 - [¿Cómo veo los cambios propuestos?](#solicitudes-de-cambios)
 - [¿Cómo creo un debate o realizo una pregunta?](#crear-un-debate-o-realizar-una-pregunta)
+
+## Versiones anteriores
+- [Versión 5.0](https://github.com/fejugger/rulebook/releases/tag/v5.0)
 
 ## ¿Por qué un repositorio?
 Con el objetivo de aumentar la transparencia del proceso de revisión del reglamento y democratizar la participación de los jugadores en los debates de las normas utilizamos un repositorio con control de cambios.
