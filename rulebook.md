@@ -638,7 +638,7 @@ La reiteración de estas acciones podrá acarrear una falta grave al jugador.
 ## 6.2 ASISTENCIA ARBITRAL
 Una asistencia arbitral es una intervención por parte de un árbitro sobre una acción que puede requerir de su aclaración y puede implicar que el jugador deba arrodillarse y realizar una cuenta, pero por el tipo de acción no se considera una falta.
 
-Normalmente este tipo de acciones generan confusión en el juego, por lo que el arbitro debe intervenir y asistir al jugador en la medida de lo posible. Si el jugador es consciente de cometer alguna de estas acciones puede actuar en consecuencia sin necesidad de la intervención del arbitro.
+Normalmente este tipo de acciones generan confusión en el juego, por lo que el árbitro debe intervenir y asistir al jugador en la medida de lo posible. Si el jugador es consciente de cometer alguna de estas acciones puede actuar en consecuencia sin necesidad de la intervención del árbitro.
 
 Las acciones definidas como asistencias arbitrales no son consideradas faltas como tales. La desobediencia arbitral por parte de un jugador ante una asistencia arbitral sí deberá ser considerada falta grave directa (y por lo tando acumulará 5 intervalos adicionales en el momento).
 
