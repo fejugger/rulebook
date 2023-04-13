@@ -392,7 +392,7 @@ Según el sistema de juego, «al mismo tiempo» quiere decir que los impactos ha
 ## 5.4 ARRODILLARSE
 Arrodillarse es la acción que tiene que llevar a cabo un jugador que ha recibido un impacto válido y/o una falta y que consiste en poner como mínimo una rodilla en el suelo hasta que pase el tiempo de penalización. Durante este tiempo, el jugador debe cumplir las siguientes normas:
 
-- Para poder iniciar su cuenta, su arma no deberá estar trabada con otra.
+- Para poder iniciar su cuenta, ni el jugador ni su arma deberán estar trabada con otra.
 - El jugador deberá arrodillarse en el lugar del campo que fue impactado. En caso de verse obligado a desplazarse, deberá regresar a la posición del impacto e iniciar su cuenta.
 - Su arma deberá estar de manera horizontal y en el suelo.
 - Si lleva un escudo, no podrá realizar la cuenta con la mano que lo porta. Además el escudo deberá permanecer agarrado en todo momento y no podrá usarse para cubrirse.
