@@ -477,7 +477,7 @@ Se tendrán en cuenta las siguientes consideraciones:
 
 Siempre que un jugador **RECIBA** un contacto y considere que el oponente no ha generado una ventaja ni le ha desplazado o bloqueado, es libre de indicar de manera visible para los árbitros al jugador que realizó la carga que continúe jugando y no lo considere falta. De lo contrario, el árbitro decidirá si se dan las condiciones para sancionarse como carga. En todo momento es el jugador que recibe la carga el único con potestad para decidir: nunca podrá hacerlo el jugador que la realizó.
 
-Una carga se sanciona conuna falta leve y no produce impactos válidos, ya sea antes o después de realizarse.
+Una carga se sanciona con una falta leve y no produce impactos válidos, ya sea antes o después de realizarse.
 
 ## 5.8 LUCHA DE CORREDORES
 Los corredores pueden luchar entre ellos. Las técnicas que están permitidas son:
