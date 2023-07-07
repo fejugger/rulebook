@@ -463,20 +463,21 @@ Cuando un pineo finaliza puede ocurrir que el jugador arrodillado:
 En ambos casos, si el intervalo suena justo cuando se está liberando el pineo, no será tenido en cuenta y habrá que esperar a que suene el siguiente.
 
 ## 5.7 CARGAS
-Una carga es un golpe que realiza un jugador con alguna parte de su cuerpo o de su arma que no sea considerada zona de impacto sobre un oponente.
-
-Si existe la posibilidad de que las trayectorias de los jugadores hagan que estos choquen en movimiento, deberán detenerse antes del impacto.
+Una carga es un golpe que realiza un jugador con alguna parte de su cuerpo o de su arma que no produzca impactos válidos sobre un oponente que, con independencia de la fuerza aplicada, proporciona una ventaja artificial, bloquea y/o desplaza al oponente. 
 
 Se tendrán en cuenta las siguientes consideraciones:
 
-- Un golpe con el cuerpo contra el cuerpo del rival o una zona de su arma que no produzca impactos válidos debe considerarse carga, independientemente de la intensidad del mismo.
-- Un golpe entre dos armas, ya sea entre zonas de golpeo válidas o zonas que no produzcan impactos válidos, seguirá siendo un golpe entre armas y por lo tanto no será considerado carga.
+- Para que un golpe se considere carga, debe haber una ventaja artificial, bloqueo o desplazamiento. Es decir, que únicamente haya contacto, no es suficiente para aplicar la sanción.
+- Los roces, no serán considerados carga.
+- Si el contacto pone en peligro la integridad física de algún jugador, no será considerado carga. Esto es considerado juego peligroso.
+- El contacto entre qwikers activos no será considerado carga, ya que estos se rigen por la sección [Lucha de corredores](#58-lucha-de-corredores) del reglamento.
+- El contacto entre dos jugadores del mismo equipo no será considerado carga, aunque sí puede ser considerado juego peligroso.
+- Un jugador inactivo puede cometer una carga.
+- El uso de las armas de forma incorrecta puede suponer carga.
 
-El contacto físico entre jugadores del mismo equipo no es considerado carga, por lo que sí está permitido, siempre que no ponga en peligro su integridad física.
+Siempre que un jugador **RECIBA** un contacto y considere que el oponente no ha generado una ventaja ni le ha desplazado o bloqueado, es libre de indicar de manera visible para los árbitros al jugador que realizó la carga que continúe jugando y no lo considere falta. De lo contrario, el árbitro decidirá si se dan las condiciones para sancionarse como carga. En todo momento es el jugador que recibe la carga el único con potestad para decidir: nunca podrá hacerlo el jugador que la realizó.
 
-Siempre que un jugador **RECIBA** una carga y considere que la fuerza del golpe no ha sido significativa, es libre de indicar de manera visible para los árbitros al jugador que realizó la carga que continúe jugando y no lo considere falta. En todo momento es el jugador que recibe la carga el único con potestad para decidir: nunca podrá hacerlo el jugador que la realizó.
-
-Las cargas son consideradas faltas y no producen impactos válidos. Esto es, si se realiza una carga con el fin de obtener cualquier tipo de ventaja a la hora de conseguir un golpe, el impacto no se considerará válido.
+Una carga se sanciona conuna falta leve y no produce impactos válidos, ya sea antes o después de realizarse.
 
 ## 5.8 LUCHA DE CORREDORES
 Los corredores pueden luchar entre ellos. Las técnicas que están permitidas son:
