@@ -474,7 +474,6 @@ Se tendrán en cuenta las siguientes consideraciones:
 - El contacto entre dos jugadores del mismo equipo no será considerado carga, aunque sí puede ser considerado juego peligroso.
 - Un jugador inactivo puede cometer una carga.
 - El uso de las armas de forma incorrecta puede suponer carga.
-- Si un jugador debe abandonar su espacio (o uno que previsiblemente iba a ocupar) para evitar recibir una carga por parte de un jugador rival, se seguirá considerando carga aunque no se haya realizado el contacto.
 
 Siempre que un jugador **RECIBA** un contacto y considere que el oponente no ha generado una ventaja ni le ha desplazado o bloqueado, es libre de indicar de manera visible para los árbitros al jugador que realizó la carga que continúe jugando y no lo considere falta. De lo contrario, el árbitro decidirá si se dan las condiciones para sancionarse como carga. En todo momento es el jugador que recibe la carga el único con potestad para decidir: nunca podrá hacerlo el jugador que la realizó.
 
